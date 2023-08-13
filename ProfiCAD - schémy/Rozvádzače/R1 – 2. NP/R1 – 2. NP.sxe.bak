@@ -1,0 +1,1261 @@
+<document type="ProfiCAD sxe" version="10.0">
+<fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,FF00FF" refs="85,0,0,0,Arial,008000" wire_names="85,0,0,0,Arial,000000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000" reports="85,0,0,0,Arial,000000"/>
+<PrintSettings PrinterName="" PaperSize="9" FormName="A4 (210 x 297 mm)" SheetSizeX="210" SheetSizeY="297" WantsCustom="0" CustomSizeX="283" CustomSizeY="203"/>
+<PrintReportSettings paper_size_enum="9" sheet_size_x="210" sheet_size_y="297" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
+<PrinterSettings PaperSizeX="2770" PaperSizeY="1900" PhysicalOffestTenthMm_X="29" PhysicalOffestTenthMm_Y="30"/>
+<tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb"/>
+<PageSettings bgColor="FFFFFF" zoom="100" frame="YES" showT="YES" showV="YES" includeMargins="YES"/>
+<RefGridSettings FieldSize="50"/>
+<NumberingWire Over="1" Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="10" WireLabelDist_c="7"/>
+<summary>
+<field name="Abteilung" value=""/>
+<field name="Auftraggeber" value=""/>
+<field name="DokArt" value=""/>
+<field name="DokStatus" value=""/>
+<field name="Genehmigt" value=""/>
+<field name="ProjBez" value=""/>
+<field name="ProjZusatz" value=""/>
+<field name="Sachnummer" value=""/>
+<field name="Size" value=""/>
+<field name="Spr" value=""/>
+<field name="TeilBez" value=""/>
+<field name="Titel" value=""/>
+<field name="TitelZusatz" value=""/>
+<field name="_pcs" value=""/>
+<field name="_po" value=""/>
+<field name="_sc" value=""/>
+<field name="approved" value=""/>
+<field name="author" value=""/>
+<field name="cisloDok" value=""/>
+<field name="date" value="13. 3. 2023"/>
+<field name="dep" value=""/>
+<field name="docStatus" value=""/>
+<field name="docType" value=""/>
+<field name="druhDokumentu" value=""/>
+<field name="id" value=""/>
+<field name="index" value=""/>
+<field name="jazyk" value=""/>
+<field name="lng" value=""/>
+<field name="name" value=""/>
+<field name="nazev" value=""/>
+<field name="nazevDopln" value=""/>
+<field name="odd" value=""/>
+<field name="prezkousel" value=""/>
+<field name="rev" value=""/>
+<field name="revision" value=""/>
+<field name="sheet" value=""/>
+<field name="statusDokumentu" value=""/>
+<field name="techRef" value=""/>
+<field name="title" value=""/>
+<field name="titleSup" value=""/>
+<field name="zmena" value=""/>
+<field name="Änderung" value=""/>
+</summary>
+<repo>
+<ppd name="ostatní\jiné součástky\Crouzet CP4.ppd" v="CP4" fG="93d20d18-5cf9-4938-b85a-d4829d267755" lG="0282503f-20a5-4d17-94c6-866f3a436311">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-175" top="-150" right="125" bottom="150"/>
+<outlet x="-50" y="30"/>
+<outlet x="50" y="30"/>
+<polyline pts="50,30,50,46,"/>
+<polyline pts="-50,30,-50,45,"/>
+<polyline pts="-50,45,50,45,"/>
+<ellipse left="-92" top="-133" right="-108" bottom="-117"/>
+<outlet x="-150" y="-133"/>
+<ellipse left="-58" top="-133" right="-42" bottom="-117"/>
+<outlet x="-50" y="-133"/>
+<ellipse left="-8" top="-133" right="8" bottom="-117"/>
+<outlet x="0" y="-133"/>
+<ellipse left="42" top="-133" right="58" bottom="-117"/>
+<outlet x="50" y="-133"/>
+<ellipse left="92" top="-133" right="108" bottom="-117"/>
+<outlet x="100" y="-133"/>
+<ellipse left="-158" top="124" right="-142" bottom="140"/>
+<outlet x="-150" y="138"/>
+<ellipse left="-108" top="124" right="-92" bottom="140"/>
+<outlet x="-100" y="138"/>
+<ellipse left="-58" top="124" right="-42" bottom="140"/>
+<ellipse left="92" top="124" right="108" bottom="140"/>
+<outlet x="100" y="138"/>
+<ellipse left="42" top="124" right="58" bottom="140"/>
+<outlet x="50" y="92"/>
+<outlet x="50" y="138"/>
+<ellipse left="-8" top="124" right="8" bottom="140"/>
+<outlet x="-50" y="138"/>
+<outlet x="0" y="138"/>
+<polyline pts="-175,-75,125,-75,"/>
+<polyline pts="-125,-150,-125,-75,"/>
+<polyline pts="-75,-150,-75,-75,"/>
+<polyline pts="-25,-150,-25,-75,"/>
+<polyline pts="25,-150,25,-75,"/>
+<polyline pts="75,-150,75,-75,"/>
+<polyline pts="-175,75,125,75,"/>
+<polyline pts="-125,75,-125,151,"/>
+<polyline pts="-75,75,-75,150,"/>
+<polyline pts="-25,75,-24,150,"/>
+<polyline pts="25,75,25,150,"/>
+<polyline pts="75,75,75,150,"/>
+<polyline pts="-50,-118,-50,-30,"/>
+<polyline pts="50,-118,50,-30,"/>
+<polyline pts="50,46,50,125,"/>
+<ellipse left="53" top="49" right="47" bottom="43" op-fd="1" op-fc="0"/>
+<polyline op-lw="4" pts="-88,-13,-88,17,"/>
+<polyline pts="-88,1,-50,-29,"/>
+<polyline pts="-88,1,-50,31,"/>
+<polyline pts="-50,31,-62,15,"/>
+<polyline pts="-50,31,-68,23,"/>
+<outlet x="-88" y="0"/>
+<outlet x="50" y="31"/>
+<outlet x="-50" y="-29"/>
+<polyline op-lw="4" pts="12,-15,12,15,"/>
+<polyline pts="12,0,50,-30,"/>
+<polyline pts="12,0,50,30,"/>
+<polyline pts="50,30,38,14,"/>
+<polyline pts="50,30,32,22,"/>
+<outlet x="12" y="0"/>
+<outlet x="-50" y="30"/>
+<outlet x="50" y="-30"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<outlet x="-150" y="-132"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<outlet x="-100" y="-133"/>
+<text x="-140" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">1</text>
+<text x="-90" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">2</text>
+<text x="-40" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">3</text>
+<text x="10" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">4</text>
+<text x="60" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">5</text>
+<text x="111" y="-99" f="85,0,0,0,Times New Roman,000000" l="1">6.</text>
+<text x="-140" y="100" f="85,0,0,0,Times New Roman,000000" l="1">7</text>
+<text x="-90" y="100" f="85,0,0,0,Times New Roman,000000" l="1">8</text>
+<text x="-40" y="100" f="85,0,0,0,Times New Roman,000000" l="1">9.</text>
+<text x="9" y="100" f="85,0,0,0,Times New Roman,000000" l="1">10</text>
+<text x="64" y="100" f="85,0,0,0,Times New Roman,000000" l="1">11</text>
+<text x="108" y="100" f="85,0,0,0,Times New Roman,000000" l="1">12</text>
+<text x="-124" y="-60" f="85,0,0,0,Arial Narrow,000000" l="1">Nap. 230V</text>
+<text x="-128" y="0" f="85,0,0,0,Arial,000000" l="1">OUT1</text>
+<text x="70" y="-1" f="85,0,0,0,Arial,000000" l="1">OUT2</text>
+<text x="-50" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">IN2</text>
+<text x="0" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">RST</text>
+<text x="51" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">0 V</text>
+<text x="100" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">+12V</text>
+<text x="-100" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">IN1</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič trojpólový - tvar 2.ppd" t="k" fG="1e87759a-422b-44e9-b50a-3c9670c8d5cc" lG="03b4557b-a7ea-4628-b962-167958bc4c73">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-43,26,-70,-30,"/>
+<polyline pts="37,26,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<polyline pts="-54,0,24,0,"/>
+<polyline pts="-60,-10,19,-10,"/>
+<ellipse left="-44" top="26" right="-36" bottom="34"/>
+<ellipse left="36" top="26" right="44" bottom="34"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-40" y="-60"/>
+<polyline pts="-68,-25,-75,-21,"/>
+<polyline pts="-75,-20,-70,-11,"/>
+<polyline pts="-63,-15,-70,-11,"/>
+<text x="72" y="-47" f="85,0,0,0,Symbol,000000" l="1">I &amp;gt;</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="elektronika\mechanické díly\svorkovnice.ppd" t="R" fG="10f832d5-850e-472a-a284-ce02b1e5f888" lG="0df33b9d-80fb-483b-a5e2-dc1b24c5a835">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-20" top="-20" right="20" bottom="20"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN1.ppd" fG="e7f9c2e8-c786-474d-8549-1974bad6a878" lG="10f41366-7b97-426a-a56b-ede593ee6c39">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="-100" y="-60"/>
+<polyline pts="-128,-63,-94,-72,"/>
+<outlet x="-100" y="-120"/>
+<outlet x="-100" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka_3F.ppd" fG="6b0b1e33-218c-422b-936a-1da1e81ff271" lG="26949a4d-aed0-48b4-a0ff-6a932237120d">
+<repo>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="0" y="0" h="1"/>
+<polyline pts="7,-13,17,-3,"/>
+<text x="26" y="-3" f="40,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">3</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\rozvod elektrické energie\ochranný vodič.ppd" n="EN 60617: 11-11-02" fG="0aa34f45-f8a2-47b1-94db-4bbcec10f9ba" lG="2743d2b1-b57c-461a-b466-d455394aeb0c">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,10,10,-10,"/>
+<polyline pts="2,-10,15,-10,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="ostatní\jiné součástky\rázový svodič přepětí (přepěťová ochrana).ppd" n="EN 60617: 07-22-03" fG="5f503535-64e5-4bda-97c7-de0e5f169e40" lG="2aaca61a-4b87-4d96-8694-e1666fb84931">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-5,0,-40,"/>
+<rect left="-8" top="-24" right="8" bottom="24"/>
+<polyline pts="-3,-16,0,-5,"/>
+<polyline pts="0,-5,3,-16,"/>
+<polyline pts="0,40,0,24,"/>
+<outlet x="0" y="40"/>
+<outlet x="0" y="-40"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN.ppd" fG="e7f9c2e8-c786-474d-8549-1974bad6a878" lG="3d5c3c83-2a05-47cc-93fa-91f255cc6cb6">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="-100" y="-60"/>
+<polyline pts="-128,-63,-94,-72,"/>
+<outlet x="-100" y="-120"/>
+<outlet x="-100" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN.ppd" fG="9ff37306-50a9-48ec-97e8-5effcc284188" lG="46e25dca-cb71-48c4-8487-da07597c3d1d">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="0" y="0"/>
+<polyline pts="-20,1,0,-4,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\rozvod elektrické energie\kombinovaný střední a ochranný vodič.ppd" n="EN 60617: 11-11-03" fG="bc5176b7-0385-4658-853d-ab22e4f98a77" lG="4b551355-e7c0-4aad-a678-25a650778462">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,10,20,-20,"/>
+<ellipse left="7" top="-13" right="13" bottom="-7" op-lw="5"/>
+<polyline pts="12,-20,25,-20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka_3F.ppd" fG="899598b1-7a6a-45ea-a950-091fad31efce" lG="7c7c9c78-2ac5-404c-a983-ca4c4345f16e">
+<repo>
+<ppd name="rozvody v budovách\zásuvky\zásuvka_3F.ppd" fG="6b0b1e33-218c-422b-936a-1da1e81ff271" lG="26949a4d-aed0-48b4-a0ff-6a932237120d">
+<repo>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="0" y="0" h="1"/>
+<polyline pts="7,-13,17,-3,"/>
+<text x="26" y="-3" f="40,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">3</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="0" y="0" h="1"/>
+<polyline pts="2,-9,12,1,"/>
+<polyline pts="5,-13,15,-3,"/>
+<polyline pts="9,-17,19,-7,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="ostatní\jiné součástky\3pól. spínač s aut. rozpoj. kteroukoliv pojistkou s mech. vazbou.ppd" n="EN 60617: 07-21-06" fG="bcc6c8e2-dae4-4be6-927a-aef6e0246797" lG="7d59c620-3569-4dce-9a34-cbc474070ddc">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-88" top="-69" right="-72" bottom="-21"/>
+<rect left="72" top="-69" right="88" bottom="-21"/>
+<rect left="-8" top="-69" right="8" bottom="-21"/>
+<polyline pts="0,0,0,-80,"/>
+<polyline pts="-20,0,0,40,"/>
+<polyline pts="0,40,0,79,"/>
+<polyline pts="-80,-80,-80,0,"/>
+<polyline pts="-100,0,-80,40,"/>
+<polyline pts="-80,40,-80,80,"/>
+<polyline pts="80,-80,80,0,"/>
+<polyline pts="60,0,80,40,"/>
+<polyline pts="80,40,80,80,"/>
+<outlet x="-80" y="80"/>
+<outlet x="0" y="80"/>
+<outlet x="80" y="80"/>
+<outlet x="80" y="-80"/>
+<outlet x="0" y="-80"/>
+<outlet x="-80" y="-80"/>
+<polyline op-at="1" pts="-90,20,120,20,"/>
+<polyline pts="-72,-45,-59,-45,"/>
+<polyline pts="-53,-45,-40,-45,"/>
+<polyline pts="-40,-45,-40,-32,"/>
+<polyline pts="-40,-23,-40,-10,"/>
+<polyline pts="-40,-10,-27,-10,"/>
+<polyline pts="-20,-10,-6,-10,"/>
+<polyline pts="-1,-10,12,-10,"/>
+<polyline pts="8,-45,21,-45,"/>
+<polyline pts="27,-45,40,-45,"/>
+<polyline pts="40,-45,40,-32,"/>
+<polyline pts="40,-23,40,-10,"/>
+<polyline pts="37,-10,51,-10,"/>
+<polyline pts="18,-10,30,-10,"/>
+<polyline pts="60,-10,74,-10,"/>
+<polyline pts="81,-10,96,-10,"/>
+<polyline pts="88,-45,101,-45,"/>
+<polyline pts="107,-45,120,-45,"/>
+<polyline pts="120,-45,120,-32,"/>
+<polyline pts="120,-23,120,-7,"/>
+<polyline pts="105,-10,120,-10,"/>
+<polyline pts="120,5,120,19,"/>
+<polyline pts="115,20,120,20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\trojpólový samočinný vypínač.ppd" t="k" fG="5e216d74-7e64-43f8-8d99-67f7d7c742a1" lG="7e1757d4-68ee-4a02-8978-56920d65358a">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-43,26,-70,-30,"/>
+<polyline pts="37,26,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<polyline pts="-54,0,24,0,"/>
+<polyline pts="-60,-10,19,-10,"/>
+<ellipse left="-44" top="26" right="-36" bottom="34"/>
+<ellipse left="36" top="26" right="44" bottom="34"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-40" y="-60"/>
+<polyline pts="-68,-25,-75,-21,"/>
+<polyline pts="-75,-20,-70,-11,"/>
+<polyline pts="-63,-15,-70,-11,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka 3f s ochranným a středním kontaktem - 5pólová.ppd" n="EN 60617: 211-07-25" fG="9764925e-20bb-42ad-9016-d2a5afebc305" lG="80d46f99-17c7-44bf-af32-835167d92679">
+<layers current="0">
+<layer name="0" v="1">
+<circle centerx="-5310" centery="-4770" tangentx="-5490" tangenty="-4890"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič.ppd" t="k" fG="610e46e2-df89-45e3-8b5a-203dcd240d35" lG="879946aa-4aa8-48b4-89e7-e7ae781191e2">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-28,-25,-35,-21,"/>
+<polyline pts="-35,-20,-30,-11,"/>
+<polyline pts="-23,-15,-30,-11,"/>
+<text x="32" y="-47" f="85,0,0,0,Symbol,000000" l="1">I &amp;gt;</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\odpojovač\pojistkový odpojovač 3P.ppd" t="k" fG="3ebbfc56-3d3d-434a-8998-f18180eab5fe" lG="906c4428-0768-42fe-a18d-57bd7c050d40">
+<layers current="0">
+<layer name="0" v="1">
+<polygon pts="-67,-12,-52,20,-42,16,-57,-16,"/>
+<polygon pts="-27,-12,-12,20,-2,16,-17,-16,"/>
+<polygon pts="13,-12,28,20,38,16,23,-16,"/>
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,33,-30,-30,"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-40,33,-70,-30,"/>
+<polyline pts="40,33,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+<polyline pts="-44,-30,-36,-30,"/>
+<polyline pts="-4,-30,4,-30,"/>
+<polyline pts="36,-30,44,-30,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\rozvod elektrické energie\střední vodič.ppd" n="EN 60617: 11-11-01" fG="bc8af459-1c4f-4891-890e-39c11d58531c" lG="97d3caac-a68a-4eb5-aba9-a2040c678163">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,10,10,-10,"/>
+<ellipse left="7" top="-13" right="13" bottom="-7" op-lw="5"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\svítidla\svítidlo, světelný vývod.ppd" fG="a2633bcc-af3a-4847-aa46-cb18714e5121" lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-16,-16,16,16,"/>
+<polyline pts="-16,16,16,-16,"/>
+<outlet x="0" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN.ppd" fG="e7f9c2e8-c786-474d-8549-1974bad6a878" lG="c87baf09-7c91-4028-82bf-976bb14e4a85">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="-100" y="-60"/>
+<polyline pts="-128,-63,-94,-72,"/>
+<outlet x="-100" y="-120"/>
+<outlet x="-100" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_3P_IVAN.ppd" fG="9ff37306-50a9-48ec-97e8-5effcc284188" lG="f82b66b2-f908-491b-9d84-1030d21e7f09">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="0" y="0"/>
+<polyline pts="-20,1,0,-4,"/>
+<polyline pts="-18,8,2,3,"/>
+<polyline pts="-15,15,5,10,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 3P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="fc0f77fd-9953-4025-8b0f-ddd1d3eea857">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="-40,60,-40,30,"/>
+<polyline pts="-60,-40,-40,30,"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<polyline pts="-84,-13,-70,-22,"/>
+<polyline pts="-84,-12,-68,-12,"/>
+<polyline pts="-84,-13,-55,-20,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+<polyline pts="40,-60,40,-30,"/>
+<polyline pts="40,60,40,30,"/>
+<polyline pts="20,-40,40,30,"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+<polyline pts="-4,-13,10,-22,"/>
+<polyline pts="-4,-12,12,-12,"/>
+<polyline pts="-4,-13,25,-20,"/>
+</layer>
+</layers>
+</ppd>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\A4_na_výšku.ptb">
+<repo>
+<imgDesc lG="e0cb5d27-345c-4bfc-be5c-bd4cb249e9b9" imgType="3">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S0UVwHWFFFFABUFxHvUip6QjNAHyt+1V+yPJ8e9a0bWNL1S20XVLOFrW4kuImdZ4t26P7vQqS/13e1eE/wDDtPxN/wBDlpP/AIDS1+jTW6t1FN+yL6V7mHzrG4WkqNOfurbRM8mtleFxFR1Jx1fmz85/+Hafib/octJ/8Bpa98/ZR/Zb1X9n3Udfur/xFFqq6nHDEttaRMkY2FjvbdyW+bAx0BbrkY+nPsi+lOW3VegoxGdY3FUnRqyvF+SCjleFw9RVacdV5srTQloq+JvjV+wVq3xI+J2u+J9N8VWdnb6pMLg293buXjYqAwypwRkZH19sn7m2ZGKia2Vu1cODxtfAzdSg7Nq3c68ThaWLioVldI/Ob/h2n4m/6HLSf/AaWj/h2n4m/wChy0n/AMBpa/Rj7IvpR9kX0r1/9Ysx/nX3L/I87+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz85/+Hafib/octJ/8BpaP+Hafib/AKHLSf8AwGlr9GPsi+lH2RfSj/WLMf519y/yD+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz8+tK/4Jm3sjKdS8ewQj+JbXTGkzz0BaVe3fFeu+A/8Agn78NfC88dxqceoeKbhTkLqEwSAEf9M4wuR7MWFfVItVHanrCF7VzVs7zCsrSqtLysvyN6eVYOk7xp/fr+Zi6H4bstC0+Cw06yt9PsYF2xWtrEsccY9FVQABWzHEEGBUm0UteI227s9TbRBRRRSGUr/7pr4c/aG/5LD4g/7d/wD0nir7lvIyyHFfMHxi+A/ibxd8QNQ1nSxazWl2sRAkm2MhWNUIII/2c/jQB85190fA/wD5Jj4Z/wCvUfzNfN//AAzJ43/54WX/AIFD/Cvqf4a+G7jwr4P0fSbl0kuLS3WORo87d3U4z25oA7VPuinU1elOoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAay7qrtaIxziiigBv2JPSpo4QnSiigCWloooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==</imgDesc>
+<imgDesc lG="262982a0-ded6-42b7-8e13-ab52fac2d99b" imgType="3">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S0UVwHWFFFFABUFxHvUip6QjNAHyt+1V+yPJ8e9a0bWNL1S20XVLOFrW4kuImdZ4t26P7vQqS/13e1eE/wDDtPxN/wBDlpP/AIDS1+jTW6t1FN+yL6V7mHzrG4WkqNOfurbRM8mtleFxFR1Jx1fmz85/+Hafib/octJ/8Bpa98/ZR/Zb1X9n3Udfur/xFFqq6nHDEttaRMkY2FjvbdyW+bAx0BbrkY+nPsi+lOW3VegoxGdY3FUnRqyvF+SCjleFw9RVacdV5srTQloq+JvjV+wVq3xI+J2u+J9N8VWdnb6pMLg293buXjYqAwypwRkZH19sn7m2ZGKia2Vu1cODxtfAzdSg7Nq3c68ThaWLioVldI/Ob/h2n4m/6HLSf/AaWj/h2n4m/wChy0n/AMBpa/Rj7IvpR9kX0r1/9Ysx/nX3L/I87+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz85/+Hafib/octJ/8BpaP+Hafib/AKHLSf8AwGlr9GPsi+lH2RfSj/WLMf519y/yD+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz8+tK/4Jm3sjKdS8ewQj+JbXTGkzz0BaVe3fFeu+A/8Agn78NfC88dxqceoeKbhTkLqEwSAEf9M4wuR7MWFfVItVHanrCF7VzVs7zCsrSqtLysvyN6eVYOk7xp/fr+Zi6H4bstC0+Cw06yt9PsYF2xWtrEsccY9FVQABWzHEEGBUm0UteI227s9TbRBRRRSGUr/7pr4c/aG/5LD4g/7d/wD0nir7lvIyyHFfMHxi+A/ibxd8QNQ1nSxazWl2sRAkm2MhWNUIII/2c/jQB85190fA/wD5Jj4Z/wCvUfzNfN//AAzJ43/54WX/AIFD/Cvqf4a+G7jwr4P0fSbl0kuLS3WORo87d3U4z25oA7VPuinU1elOoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAay7qrtaIxziiigBv2JPSpo4QnSiigCWloooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==</imgDesc>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<text x="-934" y="-114" f="90,1,0,0,Tahoma,000000" al="2">{dep}</text>
+<text x="-525" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Technický referent</text>
+<text x="-525" y="-114" f="90,1,0,0,Tahoma,000000" al="2">{techRef}</text>
+<text x="-257" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Kreslil</text>
+<text x="-266" y="-114" f="90,1,0,0,Tahoma,000000" al="2">{author}</text>
+<text x="218" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Soubor</text>
+<text x="218" y="-114" f="90,1,0,0,Tahoma,000000" al="2">{_file}</text>
+<text x="-266" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Typ dokumentu</text>
+<text x="-266" y="8" f="90,1,0,0,Tahoma,000000" al="2">{docType}</text>
+<text x="384" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Status dokumentu</text>
+<text x="374" y="8" f="90,1,0,0,Tahoma,000000" al="2">{docStatus}</text>
+<polyline op-lw="4" pts="-940,-80,940,-80,"/>
+<polyline op-lw="4" pts="-280,-200,-280,200,"/>
+<polyline op-lw="4" pts="-540,-200,-540,-80,"/>
+<polyline op-lw="4" pts="360,-80,360,200,"/>
+<polyline op-lw="4" pts="-280,40,940,40,"/>
+<text x="-266" y="70" f="80,0,0,0,Tahoma,000000" al="2">Název, doplňující název</text>
+<text x="-266" y="120" f="90,1,0,0,Tahoma,000000" al="2">{title}</text>
+<text x="-266" y="173" f="90,1,0,0,Tahoma,000000" al="2">{titleSup}</text>
+<text x="374" y="70" f="90,1,0,0,Tahoma,000000" al="2">{id}</text>
+<text x="916" y="173" f="90,1,0,0,Tahoma,000000" al="6">{_pcs}/{_pcsc}</text>
+<text x="830" y="10" f="90,1,0,0,Tahoma,000000" al="2">{rev}</text>
+<text x="864" y="-50" f="80,0,0,0,Tahoma,000000" al="2">Rev.</text>
+<text x="374" y="126" f="80,0,0,0,Tahoma,000000" al="2">Datum vydání</text>
+<text x="595" y="126" f="80,0,0,0,Tahoma,000000" al="2">Jazyk</text>
+<text x="374" y="173" f="90,1,0,0,Tahoma,000000" al="2">{date}</text>
+<text x="591" y="173" f="90,1,0,0,Tahoma,000000" al="2">{lng}</text>
+<text x="849" y="126" f="80,0,0,0,Tahoma,000000" al="2">List</text>
+<polyline op-lw="4" pts="364,100,941,100,"/>
+<polyline op-lw="4" pts="580,40,580,200,"/>
+<polyline op-lw="4" pts="700,100,700,200,"/>
+<img lG="e0cb5d27-345c-4bfc-be5c-bd4cb249e9b9" preserveAspect="1" left="-931" top="-11" right="-324" bottom="137"/>
+<polyline op-lw="4" pts="700,-80,700,40,"/>
+<text x="760" y="70" f="80,0,0,0,Tahoma,000000" al="2">Měřítko</text>
+<text x="851" y="70" f="80,0,0,0,Tahoma,000000" al="2">{_sc}</text>
+<polyline op-lw="4" pts="200,-200,200,-80,"/>
+<polyline op-lw="4" pts="-950,-200,950,-200,"/>
+<text x="-923" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Oddělení</text>
+</layer>
+</layers>
+</tb>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard8.ptb">
+<repo>
+<imgDesc lG="262982a0-ded6-42b7-8e13-ab52fac2d99b" imgType="3">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S0UVwHWFFFFABUFxHvUip6QjNAHyt+1V+yPJ8e9a0bWNL1S20XVLOFrW4kuImdZ4t26P7vQqS/13e1eE/wDDtPxN/wBDlpP/AIDS1+jTW6t1FN+yL6V7mHzrG4WkqNOfurbRM8mtleFxFR1Jx1fmz85/+Hafib/octJ/8Bpa98/ZR/Zb1X9n3Udfur/xFFqq6nHDEttaRMkY2FjvbdyW+bAx0BbrkY+nPsi+lOW3VegoxGdY3FUnRqyvF+SCjleFw9RVacdV5srTQloq+JvjV+wVq3xI+J2u+J9N8VWdnb6pMLg293buXjYqAwypwRkZH19sn7m2ZGKia2Vu1cODxtfAzdSg7Nq3c68ThaWLioVldI/Ob/h2n4m/6HLSf/AaWj/h2n4m/wChy0n/AMBpa/Rj7IvpR9kX0r1/9Ysx/nX3L/I87+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz85/+Hafib/octJ/8BpaP+Hafib/AKHLSf8AwGlr9GPsi+lH2RfSj/WLMf519y/yD+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz8+tK/4Jm3sjKdS8ewQj+JbXTGkzz0BaVe3fFeu+A/8Agn78NfC88dxqceoeKbhTkLqEwSAEf9M4wuR7MWFfVItVHanrCF7VzVs7zCsrSqtLysvyN6eVYOk7xp/fr+Zi6H4bstC0+Cw06yt9PsYF2xWtrEsccY9FVQABWzHEEGBUm0UteI227s9TbRBRRRSGUr/7pr4c/aG/5LD4g/7d/wD0nir7lvIyyHFfMHxi+A/ibxd8QNQ1nSxazWl2sRAkm2MhWNUIII/2c/jQB85190fA/wD5Jj4Z/wCvUfzNfN//AAzJ43/54WX/AIFD/Cvqf4a+G7jwr4P0fSbl0kuLS3WORo87d3U4z25oA7VPuinU1elOoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAay7qrtaIxziiigBv2JPSpo4QnSiigCWloooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==</imgDesc>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-840" top="-200" right="840" bottom="200" op-lw="4"/>
+<text x="-829" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Oddělení</text>
+<text x="-829" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{odd}</text>
+<text x="-608" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Technický referent</text>
+<text x="-608" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{techRef}</text>
+<text x="-190" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Kreslil</text>
+<text x="-190" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{author}</text>
+<text x="313" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Přezkoušel</text>
+<text x="313" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{prezkousel}</text>
+<text x="-190" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Druh dokumentu</text>
+<text x="-190" y="8" f="80,0,0,0,Tahoma,000000" al="2">{druhDokumentu}</text>
+<text x="313" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Status dokumentu</text>
+<text x="313" y="8" f="80,0,0,0,Tahoma,000000" al="2">{statusDokumentu}</text>
+<polyline op-lw="4" pts="-840,-80,840,-80,"/>
+<polyline op-lw="4" pts="-200,-200,-200,200,"/>
+<polyline op-lw="4" pts="-620,-200,-620,-80,"/>
+<polyline op-lw="4" pts="300,-200,300,200,"/>
+<polyline op-lw="4" pts="-200,40,840,40,"/>
+<text x="-190" y="70" f="80,0,0,0,Tahoma,000000" al="2">Název, doplňující název</text>
+<text x="-190" y="120" f="80,0,0,0,Tahoma,000000" al="2">{nazev}</text>
+<text x="-190" y="173" f="80,0,0,0,Tahoma,000000" al="2">{nazevDopln}</text>
+<text x="313" y="70" f="80,0,0,0,Tahoma,000000" al="2">Č. dokumentu</text>
+<text x="490" y="70" f="80,0,0,0,Tahoma,000000" al="2">{cisloDok}</text>
+<text x="773" y="173" f="80,0,0,0,Tahoma,000000" al="9">{_po}/{_pc}</text>
+<text x="710" y="8" f="80,0,0,0,Tahoma,000000" al="2">{zmena}</text>
+<text x="710" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Změna</text>
+<text x="313" y="126" f="80,0,0,0,Tahoma,000000" al="2">Datum vydání</text>
+<text x="595" y="126" f="80,0,0,0,Tahoma,000000" al="2">Jazyk</text>
+<text x="313" y="173" f="80,0,0,0,Tahoma,000000" al="2">{date}</text>
+<text x="591" y="173" f="80,0,0,0,Tahoma,000000" al="2">{jazyk}</text>
+<text x="726" y="126" f="80,0,0,0,Tahoma,000000" al="2">List</text>
+<polyline op-lw="4" pts="300,100,840,100,"/>
+<polyline op-lw="4" pts="580,100,580,200,"/>
+<polyline op-lw="4" pts="700,100,700,200,"/>
+<polyline op-lw="4" pts="700,-80,700,40,"/>
+<img lG="262982a0-ded6-42b7-8e13-ab52fac2d99b" preserveAspect="1" left="-815" top="-3" right="-229" bottom="140"/>
+<text x="663" y="70" f="80,0,0,0,Tahoma,000000" al="2">Měřítko</text>
+<text x="760" y="70" f="80,0,0,0,Tahoma,000000" al="2">{_sc}</text>
+<polyline op-lw="4" pts="640,40,640,100,"/>
+</layer>
+</layers>
+</tb>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard7.ptb">
+<repo>
+<imgDesc lG="262982a0-ded6-42b7-8e13-ab52fac2d99b" imgType="3">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S0UVwHWFFFFABUFxHvUip6QjNAHyt+1V+yPJ8e9a0bWNL1S20XVLOFrW4kuImdZ4t26P7vQqS/13e1eE/wDDtPxN/wBDlpP/AIDS1+jTW6t1FN+yL6V7mHzrG4WkqNOfurbRM8mtleFxFR1Jx1fmz85/+Hafib/octJ/8Bpa98/ZR/Zb1X9n3Udfur/xFFqq6nHDEttaRMkY2FjvbdyW+bAx0BbrkY+nPsi+lOW3VegoxGdY3FUnRqyvF+SCjleFw9RVacdV5srTQloq+JvjV+wVq3xI+J2u+J9N8VWdnb6pMLg293buXjYqAwypwRkZH19sn7m2ZGKia2Vu1cODxtfAzdSg7Nq3c68ThaWLioVldI/Ob/h2n4m/6HLSf/AaWj/h2n4m/wChy0n/AMBpa/Rj7IvpR9kX0r1/9Ysx/nX3L/I87+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz85/+Hafib/octJ/8BpaP+Hafib/AKHLSf8AwGlr9GPsi+lH2RfSj/WLMf519y/yD+xcF/L+LPzn/wCHafib/octJ/8AAaWj/h2n4m/6HLSf/AaWv0Y+yL6UfZF9KP8AWLMf519y/wAg/sXBfy/iz8+tK/4Jm3sjKdS8ewQj+JbXTGkzz0BaVe3fFeu+A/8Agn78NfC88dxqceoeKbhTkLqEwSAEf9M4wuR7MWFfVItVHanrCF7VzVs7zCsrSqtLysvyN6eVYOk7xp/fr+Zi6H4bstC0+Cw06yt9PsYF2xWtrEsccY9FVQABWzHEEGBUm0UteI227s9TbRBRRRSGUr/7pr4c/aG/5LD4g/7d/wD0nir7lvIyyHFfMHxi+A/ibxd8QNQ1nSxazWl2sRAkm2MhWNUIII/2c/jQB85190fA/wD5Jj4Z/wCvUfzNfN//AAzJ43/54WX/AIFD/Cvqf4a+G7jwr4P0fSbl0kuLS3WORo87d3U4z25oA7VPuinU1elOoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAay7qrtaIxziiigBv2JPSpo4QnSiigCWloooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==</imgDesc>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-840" top="-200" right="840" bottom="200" op-lw="4"/>
+<text x="-829" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Oddělení</text>
+<text x="-829" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{odd}</text>
+<text x="-608" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Technický referent</text>
+<text x="-608" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{techRef}</text>
+<text x="-190" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Kreslil</text>
+<text x="-190" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{author}</text>
+<text x="313" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Přezkoušel</text>
+<text x="313" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{prezkousel}</text>
+<text x="-190" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Druh dokumentu</text>
+<text x="-190" y="8" f="80,0,0,0,Tahoma,000000" al="2">{druhDokumentu}</text>
+<text x="313" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Status dokumentu</text>
+<text x="313" y="8" f="80,0,0,0,Tahoma,000000" al="2">{statusDokumentu}</text>
+<polyline op-lw="4" pts="-840,-80,840,-80,"/>
+<polyline op-lw="4" pts="-200,-200,-200,200,"/>
+<polyline op-lw="4" pts="-620,-200,-620,-80,"/>
+<polyline op-lw="4" pts="300,-200,300,200,"/>
+<polyline op-lw="4" pts="-200,40,840,40,"/>
+<text x="-190" y="70" f="80,0,0,0,Tahoma,000000" al="2">Název, doplňující název</text>
+<text x="-190" y="120" f="80,0,0,0,Tahoma,000000" al="2">{nazev}</text>
+<text x="-190" y="173" f="80,0,0,0,Tahoma,000000" al="2">{nazevDopln}</text>
+<text x="313" y="70" f="80,0,0,0,Tahoma,000000" al="2">Č. dokumentu</text>
+<text x="480" y="70" f="80,0,0,0,Tahoma,000000" al="2">{cisloDok}</text>
+<text x="773" y="173" f="80,0,0,0,Tahoma,000000" al="9">{_po}/{_pc}</text>
+<text x="710" y="8" f="80,0,0,0,Tahoma,000000" al="2">{zmena}</text>
+<text x="710" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Změna</text>
+<text x="313" y="126" f="80,0,0,0,Tahoma,000000" al="2">Datum vydání</text>
+<text x="595" y="126" f="80,0,0,0,Tahoma,000000" al="2">Jazyk</text>
+<text x="313" y="173" f="80,0,0,0,Tahoma,000000" al="2">{date}</text>
+<text x="591" y="173" f="80,0,0,0,Tahoma,000000" al="2">{jazyk}</text>
+<text x="726" y="126" f="80,0,0,0,Tahoma,000000" al="2">List</text>
+<polyline op-lw="4" pts="300,100,840,100,"/>
+<polyline op-lw="4" pts="580,100,580,200,"/>
+<polyline op-lw="4" pts="700,100,700,200,"/>
+<polyline op-lw="4" pts="700,-80,700,40,"/>
+<img lG="262982a0-ded6-42b7-8e13-ab52fac2d99b" preserveAspect="1" left="-815" top="-3" right="-229" bottom="140"/>
+<text x="663" y="70" f="80,0,0,0,Tahoma,000000" al="2">Měřítko</text>
+<text x="760" y="70" f="80,0,0,0,Tahoma,000000" al="2">{_sc}</text>
+<polyline op-lw="4" pts="640,40,640,100,"/>
+</layer>
+</layers>
+</tb>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard6.ptb">
+<repo>
+<imgDesc lG="9c118d35-f0c1-45b0-b06d-162ac2ecb37f" imgType="4">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</imgDesc>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-840" top="-200" right="840" bottom="200" op-lw="4"/>
+<text x="-829" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Oddělení</text>
+<text x="-829" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{odd}</text>
+<text x="-608" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Technický referent</text>
+<text x="-608" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{techRef}</text>
+<text x="-190" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Kreslil</text>
+<text x="-190" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{author}</text>
+<text x="313" y="-170" f="80,0,0,0,Tahoma,000000" al="2">Přezkoušel</text>
+<text x="313" y="-114" f="80,0,0,0,Tahoma,000000" al="2">{prezkousel}</text>
+<text x="-190" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Druh dokumentu</text>
+<text x="-190" y="8" f="80,0,0,0,Tahoma,000000" al="2">{druhDokumentu}</text>
+<text x="313" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Status dokumentu</text>
+<text x="313" y="8" f="80,0,0,0,Tahoma,000000" al="2">{statusDokumentu}</text>
+<polyline op-lw="4" pts="-840,-80,840,-80,"/>
+<polyline op-lw="4" pts="-200,-200,-200,200,"/>
+<polyline op-lw="4" pts="-620,-200,-620,-80,"/>
+<polyline op-lw="4" pts="300,-200,300,200,"/>
+<polyline op-lw="4" pts="-200,40,840,40,"/>
+<text x="-190" y="70" f="80,0,0,0,Tahoma,000000" al="2">Název, doplňující název</text>
+<text x="-190" y="120" f="80,0,0,0,Tahoma,000000" al="2">{nazev}</text>
+<text x="-190" y="173" f="80,0,0,0,Tahoma,000000" al="2">{nazevDopln}</text>
+<text x="313" y="70" f="80,0,0,0,Tahoma,000000" al="2">Číslo dokumentu</text>
+<text x="560" y="70" f="80,0,0,0,Tahoma,000000" al="2">{cisloDok}</text>
+<text x="717" y="173" f="80,0,0,0,Tahoma,000000" al="2">{sheet}</text>
+<text x="710" y="8" f="80,0,0,0,Tahoma,000000" al="2">{zmena}</text>
+<text x="710" y="-48" f="80,0,0,0,Tahoma,000000" al="2">Změna</text>
+<text x="313" y="126" f="80,0,0,0,Tahoma,000000" al="2">Datum vydání</text>
+<text x="595" y="126" f="80,0,0,0,Tahoma,000000" al="2">Jazyk</text>
+<text x="313" y="173" f="80,0,0,0,Tahoma,000000" al="2">{date}</text>
+<text x="591" y="173" f="80,0,0,0,Tahoma,000000" al="2">{jazyk}</text>
+<text x="726" y="126" f="80,0,0,0,Tahoma,000000" al="2">List</text>
+<polyline op-lw="4" pts="300,100,840,100,"/>
+<polyline op-lw="4" pts="580,100,580,200,"/>
+<polyline op-lw="4" pts="700,100,700,200,"/>
+<img lG="9c118d35-f0c1-45b0-b06d-162ac2ecb37f" preserveAspect="1" left="-805" top="-10" right="-240" bottom="138"/>
+<polyline op-lw="4" pts="700,-80,700,40,"/>
+</layer>
+</layers>
+</tb>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-630" top="-120" right="630" bottom="120" op-lw="5"/>
+<rect left="-630" top="-60" right="630" bottom="0" op-lw="5"/>
+<polyline op-lw="5" pts="-630,60,630,60,"/>
+<rect left="-190" top="-60" right="270" bottom="0" op-lw="5"/>
+<text x="-616" y="-87" f="65,0,0,0,Arial,000000" l="1" al="2">Název: {name}</text>
+<text x="-616" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Index: {index}</text>
+<text x="-616" y="33" f="65,0,0,0,Arial,000000" l="1" al="2">Autor: {author}</text>
+<text x="-616" y="93" f="65,0,0,0,Arial,000000" l="1" al="2">Revize: {revision}</text>
+<text x="-176" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Datum: {date}</text>
+<text x="284" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">List: {sheet}</text>
+</layer>
+</layers>
+</tb>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\stavební.ptb">
+<repo>
+<imgDesc lG="f609118a-d984-49dc-85ce-34a4fca58e50" imgType="3">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</imgDesc>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-800" top="-700" right="800" bottom="700" op-lw="4"/>
+<rect left="-795" top="-245" right="345" bottom="-95"/>
+<rect left="-795" top="120" right="345" bottom="465"/>
+<rect left="350" top="-190" right="795" bottom="10"/>
+<rect left="350" top="15" right="570" bottom="465"/>
+<polyline pts="-795,-195,345,-195,"/>
+<polyline pts="-795,-145,345,-145,"/>
+<polyline pts="-490,-245,-490,-95,"/>
+<polyline pts="-305,-245,-305,-95,"/>
+<polyline pts="-135,-90,-135,-40,"/>
+<polyline pts="350,65,570,65,"/>
+<rect left="575" top="15" right="795" bottom="465"/>
+<polyline pts="575,65,795,65,"/>
+<polyline pts="-795,10,345,10,"/>
+<text x="-780" y="-219" f="80,0,0,0,Calibri,000000" al="2">Zodpovědný projektant:</text>
+<text x="-780" y="-169" f="80,0,0,0,Calibri,000000" al="2">Projektant profese:</text>
+<text x="-780" y="-119" f="80,0,0,0,Calibri,000000" al="2">Vypracoval:</text>
+<text x="-780" y="-64" f="80,0,0,0,Calibri,000000" al="2">Kraj:</text>
+<text x="-120" y="-64" f="80,0,0,0,Calibri,000000" al="2">Okres:</text>
+<text x="-780" y="36" f="80,0,0,0,Calibri,000000" al="2">Investor:</text>
+<text x="-780" y="161" f="80,0,0,0,Calibri,000000" al="2">Název stavby:</text>
+<text x="-780" y="291" f="80,0,0,0,Calibri,000000" al="2">Stavební objekt:</text>
+<text x="-780" y="496" f="80,0,0,0,Calibri,000000" al="2">Obsah:</text>
+<text x="365" y="41" f="80,0,0,0,Calibri,000000" al="2">Datum:</text>
+<text x="365" y="91" f="80,0,0,0,Calibri,000000" al="2">Číslo zakázky:</text>
+<text x="365" y="141" f="80,0,0,0,Calibri,000000" al="2">Stupeň PD:</text>
+<text x="365" y="191" f="80,0,0,0,Calibri,000000" al="2">Formát:</text>
+<text x="365" y="241" f="80,0,0,0,Calibri,000000" al="2">Objekt:</text>
+<text x="365" y="496" f="80,0,0,0,Calibri,000000" al="2">Měřítko:</text>
+<text x="-475" y="621" f="80,0,0,0,Calibri,000000" al="2">Číslo výkresu:</text>
+<rect left="-795" top="-330" right="345" bottom="-250"/>
+<rect left="-795" top="-645" right="-495" bottom="-335"/>
+<rect left="-490" top="-645" right="40" bottom="-335"/>
+<rect left="45" top="-645" right="345" bottom="-335"/>
+<rect left="350" top="-645" right="795" bottom="-250"/>
+<rect left="-795" top="-695" right="-495" bottom="-650"/>
+<rect left="-490" top="-695" right="40" bottom="-650"/>
+<rect left="45" top="-695" right="345" bottom="-650"/>
+<rect left="350" top="-695" right="795" bottom="-650"/>
+<text x="-780" y="-674" f="100,1,0,0,Calibri,000000" al="2">ORIENTACE</text>
+<text x="-475" y="-674" f="100,1,0,0,Calibri,000000" al="2">GENERÁLNÍ PROJEKTANT</text>
+<text x="60" y="-674" f="100,1,0,0,Calibri,000000" al="2">ČÍSLO PARÉ</text>
+<text x="365" y="-674" f="100,1,0,0,Calibri,000000" al="2">AUTORIZAČNÍ RAZÍTKO</text>
+<polyline pts="350,215,570,215,"/>
+<rect left="350" top="-245" right="795" bottom="-195"/>
+<text x="365" y="-219" f="100,1,0,0,Calibri,000000" al="2">PROJEKTANT ČÁSTI PD</text>
+<text x="-120" y="-219" f="80,0,0,0,Calibri,000000" al="2">Kreslil:</text>
+<text x="-120" y="-169" f="80,0,0,0,Calibri,000000" al="2">Kontroloval:</text>
+<polyline pts="60,-245,60,-95,"/>
+<rect left="-795" top="-90" right="345" bottom="115"/>
+<polyline pts="-795,-40,345,-40,"/>
+<polyline pts="-135,-245,-135,-95,"/>
+<polyline pts="-490,-90,-490,115,"/>
+<polyline pts="60,-90,60,-40,"/>
+<text x="-780" y="-14" f="80,0,0,0,Calibri,000000" al="2">Generální projektant:</text>
+<polyline pts="350,115,570,115,"/>
+<polyline pts="350,165,570,165,"/>
+<polyline pts="575,115,795,115,"/>
+<polyline pts="575,165,795,165,"/>
+<polyline pts="350,265,570,265,"/>
+<polyline pts="575,265,795,265,"/>
+<polyline pts="575,215,795,215,"/>
+<rect left="350" top="470" right="795" bottom="590" op-lw="5"/>
+<polyline pts="-795,265,345,265,"/>
+<polyline pts="-795,315,345,315,"/>
+<polyline pts="-795,365,345,365,"/>
+<text x="-780" y="341" f="80,0,0,0,Calibri,000000" al="2">Část:</text>
+<text x="-780" y="416" f="80,0,0,0,Calibri,000000" al="2">Obchodní soubor:</text>
+<polyline pts="350,315,570,315,"/>
+<polyline pts="350,365,570,365,"/>
+<polyline pts="350,415,570,415,"/>
+<polyline pts="575,315,795,315,"/>
+<polyline pts="575,365,795,365,"/>
+<polyline pts="575,415,795,415,"/>
+<rect left="-795" top="470" right="345" bottom="590"/>
+<rect left="-490" top="595" right="570" bottom="695"/>
+<rect left="575" top="595" right="795" bottom="695"/>
+<rect left="-795" top="595" right="-495" bottom="695"/>
+<polyline pts="-795,645,-495,645,"/>
+<polyline pts="-490,645,570,645,"/>
+<polyline pts="575,645,795,645,"/>
+<text x="-780" y="621" f="80,0,0,0,Calibri,000000" al="2">SO:</text>
+<text x="590" y="621" f="80,0,0,0,Calibri,000000" al="2">Revize:</text>
+<img lG="f609118a-d984-49dc-85ce-34a4fca58e50" preserveAspect="1" left="-467" top="-529" right="19" bottom="-420"/>
+</layer>
+</layers>
+</tb>
+<DimStyle name="architektonické" arrow="1" flel="0" off_ori="10" lbl_pos="0" align_text="1" f="120,0,0,0,Arial,000000" unit="1">
+<DimLine op-lw="1" op-lc="16711680"/>
+<ExtLine op-lw="1" op-lc="8421504"/>
+</DimStyle>
+</repo>
+<pages current="0">
+<page name="1" dim_style_name="architektonické">
+<PageSizeSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210" source="0"/>
+<PagePrintSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210"/>
+<tb use="1"/>
+<summary>
+<field name="_du" value="cm"/>
+<field name="_pa" value="1"/>
+<field name="_po" value="1"/>
+<field name="_potb" value="1"/>
+<field name="_sc" value=""/>
+</summary>
+<layers current="1">
+<layer name="-1" v="1"/>
+<layer name="0" v="1">
+<text x="393" y="1401" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Rozvodnica zapustená, plastová,
+kovové dvierka, 48 modulov
+Stupeň krytia: max IP 40</text>
+<text x="2506" y="1751" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">1/1</text>
+<text x="1863" y="1691" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Rozvádzač RP1 - prehľadová schéma </text>
+<text x="149" y="1081" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L1, L2, L3</text>
+<text x="237" y="396" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">PRÍVOD</text>
+<polyline pts="160,1010,140,1050,"/>
+<polyline pts="180,1010,160,1050,"/>
+<polyline pts="140,1010,120,1050,"/>
+<wire pts="120,600,2680,600,"/>
+<wire op-contour2="16777215" pts="140,640,2680,640," name="PE"/>
+<rect left="170" top="160" right="270" bottom="200"/>
+<polyline op-lw="6" pts="190,180,250,180,"/>
+<elem lG="f82b66b2-f908-491b-9d84-1030d21e7f09" x="380" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvkový rovádzač ZP2" v="1" al="6" x="309" y="680" t="2"/>
+<attribute name="_type" value="PL6-B40/3" v="1" al="6" x="349" y="840" t="2"/>
+</attributes>
+</elem>
+<polyline pts="220,840,220,200,"/>
+<wire pts="220,540,260,580,260,600," drop2="1"/>
+<wire pts="260,600,260,580,"/>
+<wire pts="220,540,280,580,280,640," drop2="1"/>
+<text x="129" y="581" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">N</text>
+<text x="129" y="621" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">PE</text>
+<elem lG="2743d2b1-b57c-461a-b466-d455394aeb0c" x="160" y="640">
+<attributes>
+<attribute name="_ref" value="4" v="0" al="6" x="120" y="620"/>
+<attribute name="_type" value="" v="0" al="6" x="120" y="660"/>
+</attributes>
+</elem>
+<elem lG="97d3caac-a68a-4eb5-aba9-a2040c678163" x="160" y="600">
+<attributes>
+<attribute name="_ref" value="5" v="0" al="6" x="120" y="580"/>
+<attribute name="_type" value="" v="0" al="6" x="120" y="620"/>
+</attributes>
+</elem>
+<rect left="60" top="480" right="2720" bottom="1160">
+<op-lt head="čerchovaná (.5x), _._._._._._._._._._._._._._._." body="A,.25,-.125,0,-.125"/>
+</rect>
+<text x="193" y="365" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x10</text>
+<text x="219" y="125" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">RH1
+</text>
+<elem lG="7e1757d4-68ee-4a02-8978-56920d65358a" x="200" y="900" h="1" v="1">
+<attributes>
+<attribute name="_ref" value="Hlavný vypínač" v="1" al="6" x="100" y="800" t="2"/>
+<attribute name="_type" value="IS-80/3" v="1" al="6" x="140" y="860" t="2"/>
+</attributes>
+</elem>
+<wire pts="160,840,200,840,"/>
+<wire pts="200,1030,200,960," drop1="1"/>
+<polyline pts="380,840,380,200,"/>
+<elem lG="f82b66b2-f908-491b-9d84-1030d21e7f09" x="540" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvkový rovádzač ZP1" v="1" al="6" x="469" y="680" t="2"/>
+<attribute name="_type" value="PL6-B40/3" v="1" al="6" x="509" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="540,200,540,840,"/>
+<wire pts="540,960,540,1030,120,1030,"/>
+<elem lG="f82b66b2-f908-491b-9d84-1030d21e7f09" x="700" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Kuchyňa riaditeľ" v="1" al="6" x="629" y="780" t="2"/>
+<attribute name="_type" value="PL6-B16/3" v="1" al="6" x="669" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="700,960,700,1030,540,1030," drop2="1"/>
+<wire pts="380,540,420,580,420,600," drop2="1"/>
+<wire pts="380,540,440,580,440,640," drop2="1"/>
+<wire pts="540,540,580,580,580,600," drop2="1"/>
+<wire pts="540,540,600,580,600,640," drop2="1"/>
+<wire pts="700,200,700,840,"/>
+<elem lG="f82b66b2-f908-491b-9d84-1030d21e7f09" x="860" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvkové skine" v="1" al="6" x="789" y="780" t="2"/>
+<attribute name="_type" value="PL6-C32/3" v="1" al="6" x="829" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="860,960,860,1030,700,1030," drop2="1"/>
+<wire pts="860,200,860,840,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1020" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvky okruh 26" v="1" al="6" x="949" y="760" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="989" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="1020,960,1020,1030,860,1030," drop2="1"/>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1020" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="9" v="0" al="6" x="980" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="980" y="200"/>
+</attributes>
+</elem>
+<wire pts="1020,840,1020,200,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1180" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvky okruh 27" v="1" al="6" x="1109" y="760" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="1149" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1340" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvky okruh 28" v="1" al="6" x="1269" y="760" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="1309" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1500" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Zásuvky okruh 29" v="1" al="6" x="1429" y="760" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="1469" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="1180,960,1180,1030,1020,1030," drop2="1"/>
+<wire pts="1180,1030,1340,1030,1340,960," drop1="1"/>
+<wire pts="1340,1030,1500,1030,1500,960," drop1="1"/>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1180" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="2" v="0" al="6" x="1140" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="1140" y="200"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1340" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="7" v="0" al="6" x="1300" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="1300" y="200"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1500" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="10" v="0" al="6" x="1460" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="1460" y="200"/>
+</attributes>
+</elem>
+<wire pts="1180,840,1180,200,"/>
+<wire pts="1340,200,1340,840,"/>
+<wire pts="1500,840,1500,200,"/>
+<wire pts="700,540,740,580,740,600," drop2="1"/>
+<wire pts="700,540,760,580,760,640," drop2="1"/>
+<wire pts="860,540,900,580,900,600," drop2="1"/>
+<wire pts="860,540,920,580,920,640," drop2="1"/>
+<wire pts="1020,540,1060,580,1060,600," drop2="1"/>
+<wire pts="1020,540,1080,580,1080,640," drop2="1"/>
+<wire pts="1180,540,1220,580,1220,600," drop2="1"/>
+<wire pts="1180,540,1240,580,1240,640," drop2="1"/>
+<wire pts="1340,540,1380,580,1380,600," drop2="1"/>
+<wire pts="1340,540,1400,580,1400,640," drop2="1"/>
+<wire pts="1500,540,1540,580,1540,600," drop2="1"/>
+<wire pts="1500,540,1560,580,1560,640," drop2="1"/>
+<text x="353" y="365" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x4</text>
+<text x="513" y="365" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x4</text>
+<text x="673" y="353" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<text x="833" y="365" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x4</text>
+<text x="993" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<text x="1153" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<text x="1313" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<text x="1473" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1660" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Svetla okruh 12" v="1" al="6" x="1589" y="780" t="2"/>
+<attribute name="_type" value="PL6-B10/1" v="1" al="6" x="1629" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1820" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Svetla okruh 13" v="1" al="6" x="1749" y="780" t="2"/>
+<attribute name="_type" value="PL6-B10/1" v="1" al="6" x="1789" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1980" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Svetla okruh 14" v="1" al="6" x="1909" y="780" t="2"/>
+<attribute name="_type" value="PL6-B10/1" v="1" al="6" x="1949" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="2140" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Svetla okruh 15" v="1" al="6" x="2069" y="780" t="2"/>
+<attribute name="_type" value="PL6-B10/1" v="1" al="6" x="2109" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="1660,960,1660,1030,1500,1030," drop2="1"/>
+<wire pts="1660,1030,1820,1030,1820,960," drop1="1"/>
+<wire pts="1820,1030,1980,1030,1980,960," drop1="1"/>
+<wire pts="1980,1030,2140,1030,2140,960," drop1="1"/>
+<wire pts="1660,840,1660,180,"/>
+<wire pts="1820,840,1820,180,"/>
+<wire pts="1980,180,1980,840,"/>
+<wire pts="2140,840,2140,180,"/>
+<text x="1633" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x1,5</text>
+<text x="1793" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x1,5</text>
+<text x="1953" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x1,5</text>
+<text x="2113" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x1,5</text>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="1660" y="180">
+<attributes>
+<attribute name="_ref" value="11" v="0" al="6" x="1619" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="1619" y="200"/>
+</attributes>
+</elem>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="1820" y="180">
+<attributes>
+<attribute name="_ref" value="12" v="0" al="6" x="1779" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="1779" y="200"/>
+</attributes>
+</elem>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="1980" y="180">
+<attributes>
+<attribute name="_ref" value="13" v="0" al="6" x="1939" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="1939" y="200"/>
+</attributes>
+</elem>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="2140" y="180">
+<attributes>
+<attribute name="_ref" value="14" v="0" al="6" x="2099" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="2099" y="200"/>
+</attributes>
+</elem>
+<wire pts="1660,540,1700,580,1700,600," drop2="1"/>
+<wire pts="1660,540,1720,580,1720,640," drop2="1"/>
+<wire pts="1820,540,1860,580,1860,600," drop2="1"/>
+<wire pts="1820,540,1880,580,1880,640," drop2="1"/>
+<wire pts="1980,540,2020,580,2020,600," drop2="1"/>
+<wire pts="1980,540,2040,580,2040,640," drop2="1"/>
+<wire pts="2140,540,2180,580,2180,600," drop2="1"/>
+<wire pts="2140,540,2200,580,2200,640," drop2="1"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="2300" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Šatňa" v="1" al="6" x="2229" y="900" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="2269" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="2460" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Klíma 1" v="1" al="6" x="2389" y="878" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="2429" y="840" t="2"/>
+</attributes>
+</elem>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="2620" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="Klíma 2" v="1" al="6" x="2549" y="880" t="2"/>
+<attribute name="_type" value="PL6-B16/1" v="1" al="6" x="2589" y="840" t="2"/>
+</attributes>
+</elem>
+<wire pts="2300,960,2300,1030,2140,1030," drop2="1"/>
+<wire pts="2300,1030,2460,1030,2460,960," drop1="1"/>
+<wire pts="2460,1030,2620,1030,2620,960," drop1="1"/>
+<wire pts="2300,840,2300,180,"/>
+<wire pts="2460,180,2460,840,"/>
+<wire pts="2620,840,2620,180,"/>
+<text x="2273" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<text x="2433" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<text x="2593" y="350" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x2,5</text>
+<wire pts="2300,540,2340,580,2340,600," drop2="1"/>
+<wire pts="2300,540,2360,580,2360,640," drop2="1"/>
+<wire pts="2460,540,2500,580,2500,600," drop2="1"/>
+<wire pts="2460,540,2520,580,2520,640," drop2="1"/>
+<wire pts="2620,540,2660,580,2660,600," drop2="1"/>
+<wire pts="2620,540,2680,580,2680,640," drop2="1"/>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="2300" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="15" v="0" al="6" x="2260" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="2260" y="200"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="2460" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="16" v="0" al="6" x="2420" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="2420" y="200"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="2620" y="180" h="1">
+<attributes>
+<attribute name="_ref" value="17" v="0" al="6" x="2580" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="2580" y="200"/>
+</attributes>
+</elem>
+<text x="393" y="1504" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Trieda ochrany: II
+Prívod: zdola, 
+Vývody: hore</text>
+<text x="393" y="1341" f="80,1,0,1,Lucida Sans Unicode,000000" l="1" al="2">Rozvádzač R1 – 2. NP:
+</text>
+<rect left="60" top="1300" right="380" bottom="1740"/>
+<rect left="70" top="1309" right="370" bottom="1729"/>
+<rect left="120" top="1340" right="320" bottom="1380"/>
+<rect left="120" top="1440" right="320" bottom="1480"/>
+<rect left="120" top="1540" right="320" bottom="1580"/>
+<rect left="120" top="1640" right="320" bottom="1680"/>
+<polyline pts="100,1360,340,1360,"/>
+<polyline pts="100,1460,340,1460,"/>
+<polyline pts="100,1560,340,1560,"/>
+<polyline pts="100,1660,340,1660,"/>
+<text x="509" y="1081" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">3/N/PE AC 400/230V 50Hz, TN-S</text>
+<text x="893" y="1341" f="80,1,0,1,Lucida Sans Unicode,000000" l="1" al="2">Ochrana:
+</text>
+<text x="893" y="1401" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Opatrenia na základnú ochranu (ochranu pred priamym dotykom)
+- základná izolácia živých častí
+- zábranami alebo krytmi</text>
+<text x="893" y="1507" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Ochrana pri poruche (ochrana pred nepriamym dotykom)
+- samočinným odpojením napájania
+- ochanné uzemnenie a ochranné pospájanie</text>
+<text x="393" y="1610" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Farba: biela
+Rozmery (š x v x hl): 
+360 x 715 x90</text>
+<elem lG="7c7c9c78-2ac5-404c-a983-ca4c4345f16e" x="380" y="180">
+<attributes>
+<attribute name="_ref" value="18" v="0" al="6" x="336" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="336" y="200"/>
+</attributes>
+</elem>
+<elem lG="7c7c9c78-2ac5-404c-a983-ca4c4345f16e" x="540" y="180">
+<attributes>
+<attribute name="_ref" value="1" v="0" al="6" x="496" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="496" y="200"/>
+</attributes>
+</elem>
+<elem lG="7c7c9c78-2ac5-404c-a983-ca4c4345f16e" x="700" y="180">
+<attributes>
+<attribute name="_ref" value="3" v="0" al="6" x="656" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="656" y="200"/>
+</attributes>
+</elem>
+<elem lG="7c7c9c78-2ac5-404c-a983-ca4c4345f16e" x="860" y="180">
+<attributes>
+<attribute name="_ref" value="6" v="0" al="6" x="816" y="160"/>
+<attribute name="_type" value="" v="0" al="6" x="816" y="200"/>
+</attributes>
+</elem>
+<wire pts="220,840,240,840,"/>
+<wire pts="180,840,220,840,"/>
+<wire pts="380,1030,380,960," drop1="1"/>
+<wire pts="160,960,200,960,"/>
+<wire pts="240,960,200,960,"/>
+<text x="217" y="138" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">pole 3</text>
+<text x="1720" y="1811" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Bc. Ivan Zeman </text>
+</layer>
+</layers>
+</page>
+</pages>
+</document>

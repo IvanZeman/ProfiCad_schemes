@@ -1,0 +1,260 @@
+<document type="ProfiCAD sxe" version="10.0">
+<fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,FF00FF" refs="85,0,0,0,Arial,008000" wire_names="85,0,0,0,Arial,000000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000" reports="85,0,0,0,Arial,000000"/>
+<PrintSettings PrinterName="" PaperSize="9" FormName="A4 (210 x 297 mm)" SheetSizeX="210" SheetSizeY="297" WantsCustom="0" CustomSizeX="283" CustomSizeY="203"/>
+<PrintReportSettings paper_size_enum="9" sheet_size_x="210" sheet_size_y="297" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
+<PrinterSettings PaperSizeX="2770" PaperSizeY="1900" PhysicalOffestTenthMm_X="29" PhysicalOffestTenthMm_Y="30"/>
+<tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb"/>
+<PageSettings bgColor="FFFFFF" zoom="100" frame="YES" showT="YES" showV="YES" includeMargins="YES"/>
+<RefGridSettings FieldSize="50"/>
+<NumberingWire Over="1" Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="10" WireLabelDist_c="7"/>
+<summary>
+<field name="Abteilung" value=""/>
+<field name="Auftraggeber" value=""/>
+<field name="DokArt" value=""/>
+<field name="DokStatus" value=""/>
+<field name="Genehmigt" value=""/>
+<field name="ProjBez" value=""/>
+<field name="ProjZusatz" value=""/>
+<field name="Sachnummer" value=""/>
+<field name="Size" value=""/>
+<field name="Spr" value=""/>
+<field name="TeilBez" value=""/>
+<field name="Titel" value=""/>
+<field name="TitelZusatz" value=""/>
+<field name="approved" value=""/>
+<field name="author" value=""/>
+<field name="date" value="13. 3. 2023"/>
+<field name="dep" value=""/>
+<field name="docStatus" value=""/>
+<field name="docType" value=""/>
+<field name="id" value=""/>
+<field name="index" value=""/>
+<field name="lng" value=""/>
+<field name="name" value=""/>
+<field name="rev" value=""/>
+<field name="revision" value=""/>
+<field name="sheet" value=""/>
+<field name="techRef" value=""/>
+<field name="title" value=""/>
+<field name="titleSup" value=""/>
+<field name="Änderung" value=""/>
+</summary>
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\odpojovač\pojistkový odpojovač 3P.ppd" t="k" fG="3ebbfc56-3d3d-434a-8998-f18180eab5fe" lG="906c4428-0768-42fe-a18d-57bd7c050d40">
+<layers current="0">
+<layer name="0" v="1">
+<polygon pts="-67,-12,-52,20,-42,16,-57,-16,"/>
+<polygon pts="-27,-12,-12,20,-2,16,-17,-16,"/>
+<polygon pts="13,-12,28,20,38,16,23,-16,"/>
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,33,-30,-30,"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-40,33,-70,-30,"/>
+<polyline pts="40,33,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+<polyline pts="-44,-30,-36,-30,"/>
+<polyline pts="-4,-30,4,-30,"/>
+<polyline pts="36,-30,44,-30,"/>
+</layer>
+</layers>
+</ppd>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-630" top="-120" right="630" bottom="120" op-lw="5"/>
+<rect left="-630" top="-60" right="630" bottom="0" op-lw="5"/>
+<polyline op-lw="5" pts="-630,60,630,60,"/>
+<rect left="-190" top="-60" right="270" bottom="0" op-lw="5"/>
+<text x="-616" y="-87" f="65,0,0,0,Arial,000000" l="1" al="2">Název: {name}</text>
+<text x="-616" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Index: {index}</text>
+<text x="-616" y="33" f="65,0,0,0,Arial,000000" l="1" al="2">Autor: {author}</text>
+<text x="-616" y="93" f="65,0,0,0,Arial,000000" l="1" al="2">Revize: {revision}</text>
+<text x="-176" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Datum: {date}</text>
+<text x="284" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">List: {sheet}</text>
+</layer>
+</layers>
+</tb>
+<DimStyle name="architektonické" arrow="1" flel="0" off_ori="10" lbl_pos="0" align_text="1" f="120,0,0,0,Arial,000000" unit="1">
+<DimLine op-lw="1" op-lc="16711680"/>
+<ExtLine op-lw="1" op-lc="8421504"/>
+</DimStyle>
+</repo>
+<pages current="0">
+<page name="1" dim_style_name="architektonické">
+<PageSizeSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210" source="0"/>
+<PagePrintSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210"/>
+<tb use="1"/>
+<summary>
+<field name="_du" value="cm"/>
+<field name="_pa" value="1"/>
+<field name="_po" value="1"/>
+<field name="_potb" value="1"/>
+<field name="_sc" value=""/>
+</summary>
+<layers current="1">
+<layer name="-1" v="1"/>
+<layer name="0" v="1">
+<wire pts="200,200,2600,200," name="L1"/>
+<wire pts="200,240,2600,240," name="L2"/>
+<wire pts="200,280,2600,280," name="L3"/>
+<wire op-lc="32768" op-contour2="65535" pts="200,1051,2600,1051," name="PEN">
+<op-lt head="dash space evenly, _  _  _  _  _  _  _  _  _  _  _" body="A,.25,-.25"/>
+</wire>
+<CableSymbol min="300" com="738" max="500" hor="1">
+<attributes>
+<attribute name="_ref" value="1WL109" v="1" al="6" x="350" y="714"/>
+<attribute name="_type" value="AYKY-J 3x185+95" v="1" al="6" x="350" y="756"/>
+<attribute name="_len" value="0" v="0" al="6" x="350" y="796"/>
+<attribute name="_c1" value="" v="0" al="6" x="395" y="751"/>
+<attribute name="_c2" value="" v="0" al="6" x="435" y="751"/>
+<attribute name="_c3" value="" v="1" al="6" x="475" y="751"/>
+</attributes>
+</CableSymbol>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="400" y="402">
+<attributes>
+<attribute name="_ref" value="4FU9" v="1" al="6" x="305" y="382"/>
+<attribute name="_type" value="FSD2-33LW" v="1" al="6" x="305" y="422"/>
+</attributes>
+</elem>
+<wire pts="360,458,360,1138,"/>
+<wire pts="400,458,400,1138,"/>
+<wire pts="440,458,440,1138,"/>
+<text x="269" y="481" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">3xPN2
+250A gG</text>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="800" y="402">
+<attributes>
+<attribute name="_ref" value="4FU10" v="1" al="6" x="705" y="382"/>
+<attribute name="_type" value="FSD2-33LW" v="1" al="6" x="705" y="422"/>
+</attributes>
+</elem>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="1200" y="402">
+<attributes>
+<attribute name="_ref" value="4FU11" v="1" al="6" x="1105" y="382"/>
+<attribute name="_type" value="FSD2-33LW" v="1" al="6" x="1105" y="422"/>
+</attributes>
+</elem>
+<wire pts="760,458,760,1138,"/>
+<wire pts="800,458,800,1138," cable="1WL110"/>
+<wire pts="840,458,840,1138," cable="1WL110"/>
+<wire pts="1160,200,1160,500," drop1="1"/>
+<wire pts="1160,458,1160,1138,"/>
+<wire pts="1200,240,1200,500," drop1="1"/>
+<wire pts="1200,458,1200,1138,"/>
+<wire pts="1240,280,1240,500," drop1="1"/>
+<wire pts="1240,458,1240,1138,"/>
+<text x="669" y="481" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">3xPN2
+250A gG</text>
+<text x="1069" y="481" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">3xPN2
+125A gG</text>
+<polyline op-lw="6" pts="320,1140,520,1140,"/>
+<polyline op-lw="6" pts="720,1140,920,1140,"/>
+<polyline op-lw="6" pts="1120,1140,1320,1140,"/>
+<polyline op-lw="6" pts="420,1140,420,1180,"/>
+<polyline op-lw="6" pts="800,1140,800,1180,"/>
+<polyline op-lw="6" pts="1200,1140,1200,1180,"/>
+<wire pts="480,1051,480,1140,484,1140," drop1="1"/>
+<wire pts="880,1051,880,1140,884,1140," drop1="1"/>
+<wire pts="1280,1051,1280,1140,1284,1140," drop1="1"/>
+<CableSymbol min="700" com="740" max="900" hor="1">
+<attributes>
+<attribute name="_ref" value="1WL110" v="1" al="6" x="750" y="716"/>
+<attribute name="_type" value="AYKY-J 3x150+70" v="1" al="6" x="750" y="758"/>
+<attribute name="_len" value="0" v="0" al="6" x="750" y="798"/>
+<attribute name="_c1" value="" v="0" al="6" x="755" y="753"/>
+<attribute name="_c2" value="" v="0" al="6" x="795" y="753"/>
+<attribute name="_c3" value="" v="0" al="6" x="835" y="753"/>
+</attributes>
+</CableSymbol>
+<CableSymbol min="1100" com="740" max="1300" hor="1">
+<attributes>
+<attribute name="_ref" value="1WL111" v="1" al="6" x="1150" y="716"/>
+<attribute name="_type" value="AYKY-J 4x50" v="1" al="6" x="1150" y="758"/>
+<attribute name="_len" value="0" v="0" al="6" x="1150" y="798"/>
+<attribute name="_c1" value="" v="0" al="6" x="1195" y="753"/>
+<attribute name="_c2" value="" v="0" al="6" x="1235" y="753"/>
+<attribute name="_c3" value="" v="0" al="6" x="1275" y="753"/>
+</attributes>
+</CableSymbol>
+<rect left="320" top="1180" right="520" bottom="1300"/>
+<text x="420" y="1252" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">lis č. 48
+Engel 500
+</text>
+<rect left="720" top="1180" right="920" bottom="1300"/>
+<text x="820" y="1252" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">lis č. 72
+Haitian 530
+</text>
+<rect left="1120" top="1180" right="1320" bottom="1300"/>
+<text x="1220" y="1252" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">lis č. 49
+Demag 350
+</text>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="1600" y="402">
+<attributes>
+<attribute name="_ref" value="4FU12" v="1" al="6" x="1505" y="382"/>
+<attribute name="_type" value="FSD2-33LW" v="1" al="6" x="1505" y="422"/>
+</attributes>
+</elem>
+<text x="1469" y="481" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">3xPN2
+250A gG</text>
+<wire pts="1560,200,1560,342," drop1="1"/>
+<wire pts="1560,462,1560,500,"/>
+<wire pts="1600,240,1600,342," drop1="1"/>
+<wire pts="1600,462,1600,1140,1560,1140," cable="1WL112"/>
+<wire pts="1640,280,1640,342," drop1="1"/>
+<wire pts="1640,462,1640,500,"/>
+<polyline op-lw="6" pts="1520,1140,1720,1140,"/>
+<wire pts="1680,1051,1680,1140,1684,1140," drop1="1"/>
+<polyline op-lw="6" pts="1620,1140,1620,1180,"/>
+<rect left="1520" top="1180" right="1720" bottom="1300"/>
+<text x="1620" y="1252" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">lis č. 67
+Demag 420
+</text>
+<wire pts="1560,500,1560,1140,1580,1140," cable="1WL112"/>
+<wire pts="1640,462,1640,1140,1600,1140," cable="1WL112"/>
+<CableSymbol min="1500" com="740" max="1700" hor="1">
+<attributes>
+<attribute name="_ref" value="1WL112" v="1" al="6" x="1550" y="716"/>
+<attribute name="_type" value="AYKY-J 3x185+95" v="1" al="6" x="1550" y="758"/>
+<attribute name="_len" value="0" v="0" al="6" x="1550" y="798"/>
+<attribute name="_c1" value="" v="0" al="6" x="1595" y="753"/>
+<attribute name="_c2" value="" v="0" al="6" x="1635" y="753"/>
+<attribute name="_c3" value="" v="0" al="6" x="1675" y="753"/>
+</attributes>
+</CableSymbol>
+<wire pts="360,200,360,342," drop1="1"/>
+<wire pts="360,462,360,500,"/>
+<wire pts="400,240,400,342," drop1="1"/>
+<wire pts="400,462,400,500,"/>
+<wire pts="440,280,440,342," drop1="1"/>
+<wire pts="440,462,440,500,"/>
+<wire pts="760,200,760,342," drop1="1"/>
+<wire pts="760,462,760,500,"/>
+<wire pts="800,240,800,342," drop1="1"/>
+<wire pts="800,462,800,500,"/>
+<wire pts="840,280,840,342," drop1="1"/>
+<wire pts="840,462,840,500,"/>
+<text x="2506" y="1751" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">1/1</text>
+<text x="1869" y="1691" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Rozvádzač RH1 - prehľadová schéma </text>
+<text x="1675" y="1751" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">pole č. 4</text>
+<text x="209" y="181" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L1</text>
+<text x="209" y="221" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L2</text>
+<text x="209" y="261" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L3</text>
+<text x="2589" y="181" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L1</text>
+<text x="2589" y="221" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L2</text>
+<text x="2589" y="261" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L3</text>
+<text x="2569" y="1021" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">PEN</text>
+<text x="209" y="181" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L1</text>
+<text x="217" y="1021" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">PEN</text>
+</layer>
+</layers>
+</page>
+</pages>
+</document>

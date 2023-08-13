@@ -1,0 +1,1093 @@
+<document type="ProfiCAD sxe" version="10.0">
+<fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,FF00FF" refs="85,0,0,0,Arial,008000" wire_names="85,0,0,0,Arial,000000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000" reports="85,0,0,0,Arial,000000"/>
+<PrintSettings PrinterName="" PaperSize="9" FormName="A4 (210 x 297 mm)" SheetSizeX="210" SheetSizeY="297" WantsCustom="0" CustomSizeX="283" CustomSizeY="203"/>
+<PrintReportSettings paper_size_enum="9" sheet_size_x="210" sheet_size_y="297" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
+<PrinterSettings PaperSizeX="2770" PaperSizeY="1900" PhysicalOffestTenthMm_X="29" PhysicalOffestTenthMm_Y="30"/>
+<tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb"/>
+<PageSettings bgColor="FFFFFF" zoom="100" frame="YES" showT="YES" showV="YES" includeMargins="YES"/>
+<RefGridSettings FieldSize="50"/>
+<NumberingWire Over="1" Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="10" WireLabelDist_c="7"/>
+<summary>
+<field name="Abteilung" value=""/>
+<field name="Auftraggeber" value=""/>
+<field name="DokArt" value=""/>
+<field name="DokStatus" value=""/>
+<field name="Genehmigt" value=""/>
+<field name="ProjBez" value=""/>
+<field name="ProjZusatz" value=""/>
+<field name="Sachnummer" value=""/>
+<field name="Size" value=""/>
+<field name="Spr" value=""/>
+<field name="TeilBez" value=""/>
+<field name="Titel" value=""/>
+<field name="TitelZusatz" value=""/>
+<field name="approved" value=""/>
+<field name="author" value=""/>
+<field name="date" value="13. 3. 2023"/>
+<field name="dep" value=""/>
+<field name="docStatus" value=""/>
+<field name="docType" value=""/>
+<field name="id" value=""/>
+<field name="index" value=""/>
+<field name="lng" value=""/>
+<field name="name" value=""/>
+<field name="rev" value=""/>
+<field name="revision" value=""/>
+<field name="sheet" value=""/>
+<field name="techRef" value=""/>
+<field name="title" value=""/>
+<field name="titleSup" value=""/>
+<field name="Änderung" value=""/>
+</summary>
+<repo>
+<ppd name="ostatní\jiné součástky\Crouzet CP4.ppd" v="CP4" fG="93d20d18-5cf9-4938-b85a-d4829d267755" lG="0282503f-20a5-4d17-94c6-866f3a436311">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-175" top="-150" right="125" bottom="150"/>
+<outlet x="-50" y="30"/>
+<outlet x="50" y="30"/>
+<polyline pts="50,30,50,46,"/>
+<polyline pts="-50,30,-50,45,"/>
+<polyline pts="-50,45,50,45,"/>
+<ellipse left="-92" top="-133" right="-108" bottom="-117"/>
+<outlet x="-150" y="-133"/>
+<ellipse left="-58" top="-133" right="-42" bottom="-117"/>
+<outlet x="-50" y="-133"/>
+<ellipse left="-8" top="-133" right="8" bottom="-117"/>
+<outlet x="0" y="-133"/>
+<ellipse left="42" top="-133" right="58" bottom="-117"/>
+<outlet x="50" y="-133"/>
+<ellipse left="92" top="-133" right="108" bottom="-117"/>
+<outlet x="100" y="-133"/>
+<ellipse left="-158" top="124" right="-142" bottom="140"/>
+<outlet x="-150" y="138"/>
+<ellipse left="-108" top="124" right="-92" bottom="140"/>
+<outlet x="-100" y="138"/>
+<ellipse left="-58" top="124" right="-42" bottom="140"/>
+<ellipse left="92" top="124" right="108" bottom="140"/>
+<outlet x="100" y="138"/>
+<ellipse left="42" top="124" right="58" bottom="140"/>
+<outlet x="50" y="92"/>
+<outlet x="50" y="138"/>
+<ellipse left="-8" top="124" right="8" bottom="140"/>
+<outlet x="-50" y="138"/>
+<outlet x="0" y="138"/>
+<polyline pts="-175,-75,125,-75,"/>
+<polyline pts="-125,-150,-125,-75,"/>
+<polyline pts="-75,-150,-75,-75,"/>
+<polyline pts="-25,-150,-25,-75,"/>
+<polyline pts="25,-150,25,-75,"/>
+<polyline pts="75,-150,75,-75,"/>
+<polyline pts="-175,75,125,75,"/>
+<polyline pts="-125,75,-125,151,"/>
+<polyline pts="-75,75,-75,150,"/>
+<polyline pts="-25,75,-24,150,"/>
+<polyline pts="25,75,25,150,"/>
+<polyline pts="75,75,75,150,"/>
+<polyline pts="-50,-118,-50,-30,"/>
+<polyline pts="50,-118,50,-30,"/>
+<polyline pts="50,46,50,125,"/>
+<ellipse left="53" top="49" right="47" bottom="43" op-fd="1" op-fc="0"/>
+<polyline op-lw="4" pts="-88,-13,-88,17,"/>
+<polyline pts="-88,1,-50,-29,"/>
+<polyline pts="-88,1,-50,31,"/>
+<polyline pts="-50,31,-62,15,"/>
+<polyline pts="-50,31,-68,23,"/>
+<outlet x="-88" y="0"/>
+<outlet x="50" y="31"/>
+<outlet x="-50" y="-29"/>
+<polyline op-lw="4" pts="12,-15,12,15,"/>
+<polyline pts="12,0,50,-30,"/>
+<polyline pts="12,0,50,30,"/>
+<polyline pts="50,30,38,14,"/>
+<polyline pts="50,30,32,22,"/>
+<outlet x="12" y="0"/>
+<outlet x="-50" y="30"/>
+<outlet x="50" y="-30"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<outlet x="-150" y="-132"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<ellipse left="-158" top="-132" right="-142" bottom="-116"/>
+<outlet x="-100" y="-133"/>
+<text x="-140" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">1</text>
+<text x="-90" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">2</text>
+<text x="-40" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">3</text>
+<text x="10" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">4</text>
+<text x="60" y="-98" f="85,0,0,0,Times New Roman,000000" l="1">5</text>
+<text x="111" y="-99" f="85,0,0,0,Times New Roman,000000" l="1">6.</text>
+<text x="-140" y="100" f="85,0,0,0,Times New Roman,000000" l="1">7</text>
+<text x="-90" y="100" f="85,0,0,0,Times New Roman,000000" l="1">8</text>
+<text x="-40" y="100" f="85,0,0,0,Times New Roman,000000" l="1">9.</text>
+<text x="9" y="100" f="85,0,0,0,Times New Roman,000000" l="1">10</text>
+<text x="64" y="100" f="85,0,0,0,Times New Roman,000000" l="1">11</text>
+<text x="108" y="100" f="85,0,0,0,Times New Roman,000000" l="1">12</text>
+<text x="-124" y="-60" f="85,0,0,0,Arial Narrow,000000" l="1">Nap. 230V</text>
+<text x="-128" y="0" f="85,0,0,0,Arial,000000" l="1">OUT1</text>
+<text x="70" y="-1" f="85,0,0,0,Arial,000000" l="1">OUT2</text>
+<text x="-50" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">IN2</text>
+<text x="0" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">RST</text>
+<text x="51" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">0 V</text>
+<text x="100" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">+12V</text>
+<text x="-100" y="60" f="85,0,0,0,Arial Narrow,000000" l="1">IN1</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič trojpólový - tvar 2.ppd" t="k" fG="1e87759a-422b-44e9-b50a-3c9670c8d5cc" lG="03b4557b-a7ea-4628-b962-167958bc4c73">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-43,26,-70,-30,"/>
+<polyline pts="37,26,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<polyline pts="-54,0,24,0,"/>
+<polyline pts="-60,-10,19,-10,"/>
+<ellipse left="-44" top="26" right="-36" bottom="34"/>
+<ellipse left="36" top="26" right="44" bottom="34"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-40" y="-60"/>
+<polyline pts="-68,-25,-75,-21,"/>
+<polyline pts="-75,-20,-70,-11,"/>
+<polyline pts="-63,-15,-70,-11,"/>
+<text x="72" y="-47" f="85,0,0,0,Symbol,000000" l="1">I &amp;gt;</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="elektronika\mechanické díly\svorkovnice.ppd" t="R" fG="10f832d5-850e-472a-a284-ce02b1e5f888" lG="0df33b9d-80fb-483b-a5e2-dc1b24c5a835">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-20" top="-20" right="20" bottom="20"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN1.ppd" fG="e7f9c2e8-c786-474d-8549-1974bad6a878" lG="10f41366-7b97-426a-a56b-ede593ee6c39">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="-100" y="-60"/>
+<polyline pts="-128,-63,-94,-72,"/>
+<outlet x="-100" y="-120"/>
+<outlet x="-100" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka_3F.ppd" fG="6b0b1e33-218c-422b-936a-1da1e81ff271" lG="26949a4d-aed0-48b4-a0ff-6a932237120d">
+<repo>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="0" y="0" h="1"/>
+<polyline pts="7,-13,17,-3,"/>
+<text x="26" y="-3" f="40,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">3</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\rozvod elektrické energie\ochranný vodič.ppd" n="EN 60617: 11-11-02" fG="0aa34f45-f8a2-47b1-94db-4bbcec10f9ba" lG="2743d2b1-b57c-461a-b466-d455394aeb0c">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,10,10,-10,"/>
+<polyline pts="2,-10,15,-10,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="ostatní\jiné součástky\rázový svodič přepětí (přepěťová ochrana).ppd" n="EN 60617: 07-22-03" fG="5f503535-64e5-4bda-97c7-de0e5f169e40" lG="2aaca61a-4b87-4d96-8694-e1666fb84931">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-5,0,-40,"/>
+<rect left="-8" top="-24" right="8" bottom="24"/>
+<polyline pts="-3,-16,0,-5,"/>
+<polyline pts="0,-5,3,-16,"/>
+<polyline pts="0,40,0,24,"/>
+<outlet x="0" y="40"/>
+<outlet x="0" y="-40"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN.ppd" fG="e7f9c2e8-c786-474d-8549-1974bad6a878" lG="3d5c3c83-2a05-47cc-93fa-91f255cc6cb6">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="-100" y="-60"/>
+<polyline pts="-128,-63,-94,-72,"/>
+<outlet x="-100" y="-120"/>
+<outlet x="-100" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN.ppd" fG="9ff37306-50a9-48ec-97e8-5effcc284188" lG="46e25dca-cb71-48c4-8487-da07597c3d1d">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="0" y="0"/>
+<polyline pts="-20,1,0,-4,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\rozvod elektrické energie\kombinovaný střední a ochranný vodič.ppd" n="EN 60617: 11-11-03" fG="bc5176b7-0385-4658-853d-ab22e4f98a77" lG="4b551355-e7c0-4aad-a678-25a650778462">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,10,20,-20,"/>
+<ellipse left="7" top="-13" right="13" bottom="-7" op-lw="5"/>
+<polyline pts="12,-20,25,-20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka_3F.ppd" fG="899598b1-7a6a-45ea-a950-091fad31efce" lG="7c7c9c78-2ac5-404c-a983-ca4c4345f16e">
+<repo>
+<ppd name="rozvody v budovách\zásuvky\zásuvka_3F.ppd" fG="6b0b1e33-218c-422b-936a-1da1e81ff271" lG="26949a4d-aed0-48b4-a0ff-6a932237120d">
+<repo>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="0" y="0" h="1"/>
+<polyline pts="7,-13,17,-3,"/>
+<text x="26" y="-3" f="40,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">3</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="0" y="0" h="1"/>
+<polyline pts="2,-9,12,1,"/>
+<polyline pts="5,-13,15,-3,"/>
+<polyline pts="9,-17,19,-7,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="ostatní\jiné součástky\3pól. spínač s aut. rozpoj. kteroukoliv pojistkou s mech. vazbou.ppd" n="EN 60617: 07-21-06" fG="bcc6c8e2-dae4-4be6-927a-aef6e0246797" lG="7d59c620-3569-4dce-9a34-cbc474070ddc">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-88" top="-69" right="-72" bottom="-21"/>
+<rect left="72" top="-69" right="88" bottom="-21"/>
+<rect left="-8" top="-69" right="8" bottom="-21"/>
+<polyline pts="0,0,0,-80,"/>
+<polyline pts="-20,0,0,40,"/>
+<polyline pts="0,40,0,79,"/>
+<polyline pts="-80,-80,-80,0,"/>
+<polyline pts="-100,0,-80,40,"/>
+<polyline pts="-80,40,-80,80,"/>
+<polyline pts="80,-80,80,0,"/>
+<polyline pts="60,0,80,40,"/>
+<polyline pts="80,40,80,80,"/>
+<outlet x="-80" y="80"/>
+<outlet x="0" y="80"/>
+<outlet x="80" y="80"/>
+<outlet x="80" y="-80"/>
+<outlet x="0" y="-80"/>
+<outlet x="-80" y="-80"/>
+<polyline op-at="1" pts="-90,20,120,20,"/>
+<polyline pts="-72,-45,-59,-45,"/>
+<polyline pts="-53,-45,-40,-45,"/>
+<polyline pts="-40,-45,-40,-32,"/>
+<polyline pts="-40,-23,-40,-10,"/>
+<polyline pts="-40,-10,-27,-10,"/>
+<polyline pts="-20,-10,-6,-10,"/>
+<polyline pts="-1,-10,12,-10,"/>
+<polyline pts="8,-45,21,-45,"/>
+<polyline pts="27,-45,40,-45,"/>
+<polyline pts="40,-45,40,-32,"/>
+<polyline pts="40,-23,40,-10,"/>
+<polyline pts="37,-10,51,-10,"/>
+<polyline pts="18,-10,30,-10,"/>
+<polyline pts="60,-10,74,-10,"/>
+<polyline pts="81,-10,96,-10,"/>
+<polyline pts="88,-45,101,-45,"/>
+<polyline pts="107,-45,120,-45,"/>
+<polyline pts="120,-45,120,-32,"/>
+<polyline pts="120,-23,120,-7,"/>
+<polyline pts="105,-10,120,-10,"/>
+<polyline pts="120,5,120,19,"/>
+<polyline pts="115,20,120,20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\trojpólový samočinný vypínač.ppd" t="k" fG="5e216d74-7e64-43f8-8d99-67f7d7c742a1" lG="7e1757d4-68ee-4a02-8978-56920d65358a">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-43,26,-70,-30,"/>
+<polyline pts="37,26,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<polyline pts="-54,0,24,0,"/>
+<polyline pts="-60,-10,19,-10,"/>
+<ellipse left="-44" top="26" right="-36" bottom="34"/>
+<ellipse left="36" top="26" right="44" bottom="34"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-40" y="-60"/>
+<polyline pts="-68,-25,-75,-21,"/>
+<polyline pts="-75,-20,-70,-11,"/>
+<polyline pts="-63,-15,-70,-11,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka 3f s ochranným a středním kontaktem - 5pólová.ppd" n="EN 60617: 211-07-25" fG="9764925e-20bb-42ad-9016-d2a5afebc305" lG="80d46f99-17c7-44bf-af32-835167d92679">
+<layers current="0">
+<layer name="0" v="1">
+<circle centerx="-5310" centery="-4770" tangentx="-5490" tangenty="-4890"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič.ppd" t="k" fG="610e46e2-df89-45e3-8b5a-203dcd240d35" lG="879946aa-4aa8-48b4-89e7-e7ae781191e2">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-28,-25,-35,-21,"/>
+<polyline pts="-35,-20,-30,-11,"/>
+<polyline pts="-23,-15,-30,-11,"/>
+<text x="32" y="-47" f="85,0,0,0,Symbol,000000" l="1">I &amp;gt;</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\chrániče\Chránič 4P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="8f35de0e-d1c4-4782-87da-7e775eee1c32">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-40,-72,-40,-42,"/>
+<polyline pts="-40,73,-40,18,"/>
+<polyline pts="-63,-41,-40,18,"/>
+<outlet x="-40" y="-72"/>
+<outlet x="-40" y="73"/>
+<polyline pts="0,-72,0,-42,"/>
+<polyline pts="0,73,0,18,"/>
+<outlet x="0" y="-72"/>
+<outlet x="0" y="73"/>
+<polyline pts="-23,-41,0,18,"/>
+<ellipse left="-70" top="33" right="105" bottom="53"/>
+<rect left="-130" top="-32" right="-90" bottom="8"/>
+<polyline pts="-130,-12,-90,-12,"/>
+<polyline pts="-110,-32,-110,8,"/>
+<polyline op-line-scale="0.500" pts="-89,-12,66,-12,">
+<op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
+</polyline>
+<polyline op-line-scale="0.500" pts="-110,13,-110,43,-70,43,">
+<op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
+</polyline>
+<polyline pts="40,-72,40,-42,"/>
+<polyline pts="40,73,40,18,"/>
+<polyline pts="17,-41,40,18,"/>
+<outlet x="40" y="-72"/>
+<outlet x="40" y="73"/>
+<polyline pts="80,-72,80,-42,"/>
+<polyline pts="80,73,80,18,"/>
+<outlet x="80" y="-72"/>
+<outlet x="80" y="73"/>
+<polyline pts="57,-41,80,18,"/>
+<polyline pts="-145,-22,-145,-2,"/>
+<polyline pts="-145,-12,-141,-12,"/>
+<polyline pts="-136,-12,-131,-12,"/>
+<polyline pts="-46,-34,-34,-46,"/>
+<polyline pts="-34,-34,-46,-46,"/>
+<polyline pts="-6,-34,6,-46,"/>
+<polyline pts="6,-34,-6,-46,"/>
+<polyline pts="34,-34,46,-46,"/>
+<polyline pts="46,-34,34,-46,"/>
+<polyline pts="74,-34,86,-46,"/>
+<polyline pts="86,-34,74,-46,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\odpojovač\pojistkový odpojovač 3P.ppd" t="k" fG="3ebbfc56-3d3d-434a-8998-f18180eab5fe" lG="906c4428-0768-42fe-a18d-57bd7c050d40">
+<layers current="0">
+<layer name="0" v="1">
+<polygon pts="-67,-12,-52,20,-42,16,-57,-16,"/>
+<polygon pts="-27,-12,-12,20,-2,16,-17,-16,"/>
+<polygon pts="13,-12,28,20,38,16,23,-16,"/>
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,33,-30,-30,"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-40,33,-70,-30,"/>
+<polyline pts="40,33,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+<polyline pts="-44,-30,-36,-30,"/>
+<polyline pts="-4,-30,4,-30,"/>
+<polyline pts="36,-30,44,-30,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\zásuvky\zásuvka.ppd" n="EN 60617: 11-13-01" fG="0550162b-3c34-4958-acf4-a7c433c2357b" lG="9122f330-7f60-4788-a84c-f385ba43cb46">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-20,0,0,"/>
+<polybezier pts="-15,15,-15,-3,15,-3,15,15,"/>
+<outlet x="0" y="-20"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\rozvod elektrické energie\střední vodič.ppd" n="EN 60617: 11-11-01" fG="bc8af459-1c4f-4891-890e-39c11d58531c" lG="97d3caac-a68a-4eb5-aba9-a2040c678163">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,10,10,-10,"/>
+<ellipse left="7" top="-13" right="13" bottom="-7" op-lw="5"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="rozvody v budovách\svítidla\svítidlo, světelný vývod.ppd" fG="a2633bcc-af3a-4847-aa46-cb18714e5121" lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-16,-16,16,16,"/>
+<polyline pts="-16,16,16,-16,"/>
+<outlet x="0" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_1P_IVAN.ppd" fG="e7f9c2e8-c786-474d-8549-1974bad6a878" lG="c87baf09-7c91-4028-82bf-976bb14e4a85">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="-100" y="-60"/>
+<polyline pts="-128,-63,-94,-72,"/>
+<outlet x="-100" y="-120"/>
+<outlet x="-100" y="0"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\chrániče\chránič čtyřpólový.ppd" fG="474ede62-a271-4494-88f1-a71b9e73773a" lG="dbd8fb78-5bbe-46fa-90a8-1fb05d6cc1b2">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="39,34,39,60,"/>
+<polyline pts="39,24,12,-32,"/>
+<ellipse left="35" top="25" right="43" bottom="33"/>
+<polyline pts="14,-28,7,-24,"/>
+<polyline pts="7,-24,12,-15,"/>
+<polyline pts="18,-18,13,-15,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="-24,28,-51,-28,"/>
+<ellipse left="-25" top="27" right="-17" bottom="35"/>
+<polyline pts="-49,-23,-56,-19,"/>
+<polyline pts="-56,-18,-51,-9,"/>
+<polyline pts="-44,-13,-51,-9,"/>
+<polyline pts="58,0,48,0,"/>
+<polyline pts="58,-44,58,0,"/>
+<polyline pts="29,-44,58,-44,"/>
+<polyline pts="28,-44,37,-35,"/>
+<polyline pts="28,-44,36,-52,"/>
+<rect left="-72" top="-56" right="73" bottom="40"/>
+<polyline pts="-20,-60,-20,-29,"/>
+<polyline pts="-24,28,-51,-28,"/>
+<ellipse left="-25" top="27" right="-17" bottom="35"/>
+<polyline pts="-49,-23,-56,-19,"/>
+<polyline pts="-56,-18,-51,-9,"/>
+<polyline pts="-44,-13,-51,-9,"/>
+<polyline pts="0,35,0,61,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="-2,26,-29,-30,"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-27,-25,-34,-21,"/>
+<polyline pts="-34,-20,-29,-11,"/>
+<polyline pts="-22,-15,-29,-11,"/>
+<polyline pts="20,34,20,60,"/>
+<polyline pts="20,-60,20,-31,"/>
+<polyline pts="19,25,-8,-31,"/>
+<ellipse left="16" top="25" right="24" bottom="33"/>
+<polyline pts="-5,-25,-12,-21,"/>
+<polyline pts="-12,-20,-7,-11,"/>
+<polyline pts="0,-15,-7,-11,"/>
+<ellipse left="-59" top="-8" right="48" bottom="8"/>
+<polyline pts="-20,35,-20,60,"/>
+<text x="-49" y="-44" f="60,0,0,0,Arial,000000" l="1" tws="0">I1</text>
+<text x="-30" y="-44" f="60,0,0,0,Arial,000000" l="1" tws="0">I2</text>
+<text x="-10" y="-44" f="60,0,0,0,Arial,000000" l="1" tws="0">I3</text>
+<text x="11" y="-44" f="60,0,0,0,Arial,000000" l="1" tws="0">N</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\chrániče\proudový chránič 4P.ppd" fG="65b68013-5f07-420e-8c14-0771c9a8a048" lG="ec58b259-eb25-486c-ad05-b23658442f31">
+<layers current="0">
+<layer name="0" v="1">
+<polyline op-at="1" pts="-200,-60,185,-60,"/>
+<outlet x="0" y="-125"/>
+<outlet x="0" y="125"/>
+<outlet x="50" y="-125"/>
+<outlet x="50" y="125"/>
+<outlet x="100" y="-125"/>
+<outlet x="100" y="125"/>
+<outlet x="150" y="-125"/>
+<outlet x="150" y="125"/>
+<rect left="-80" top="-7" right="192" bottom="25"/>
+<polyline pts="50,-125,50,-86,"/>
+<polyline pts="39,-85,61,-85,"/>
+<polyline pts="33,-85,50,-41,"/>
+<polyline pts="50,25,50,125,"/>
+<polyline pts="50,-41,50,-7,"/>
+<polyline pts="58,17,50,25,"/>
+<polyline pts="42,1,58,17,"/>
+<polyline pts="50,-7,42,1,"/>
+<polyline pts="100,-125,100,-86,"/>
+<polyline pts="89,-86,111,-86,"/>
+<polyline pts="83,-85,100,-41,"/>
+<polyline pts="100,25,100,125,"/>
+<polyline pts="100,-41,100,-7,"/>
+<polyline pts="108,17,100,25,"/>
+<polyline pts="92,1,108,17,"/>
+<polyline pts="100,-7,92,1,"/>
+<polyline pts="192,-125,192,-86,"/>
+<polyline pts="139,-85,161,-85,"/>
+<polyline pts="175,-85,192,-41,"/>
+<polyline pts="150,25,150,125,"/>
+<polyline pts="192,-41,192,-25,"/>
+<polyline pts="158,17,150,25,"/>
+<polyline pts="142,1,158,17,"/>
+<polyline pts="150,-7,142,1,"/>
+<polyline pts="0,-125,0,-86,"/>
+<polyline pts="-11,-85,11,-85,"/>
+<polyline pts="-17,-85,0,-41,"/>
+<polyline pts="0,25,0,125,"/>
+<polyline pts="0,-41,0,-7,"/>
+<polyline pts="8,17,0,25,"/>
+<polyline pts="-8,1,8,17,"/>
+<polyline pts="0,-7,-8,1,"/>
+<polyline pts="133,-85,150,-41,"/>
+<polyline pts="150,-41,150,-7,"/>
+<polyline pts="150,-25,192,-25,"/>
+<polyline pts="-70,-7,-70,25,"/>
+<polyline pts="-65,-7,-65,25,"/>
+<polyline pts="-75,-7,-75,25,"/>
+<rect left="-133" top="-11" right="-117" bottom="29"/>
+<polyline pts="150,-125,150,-86,"/>
+<polyline pts="192,-125,225,-125,"/>
+<polyline pts="-140,25,-140,54,"/>
+<polyline pts="100,52,175,52,"/>
+<polyline pts="175,52,220,68,"/>
+<polyline pts="-110,-25,-110,-7,"/>
+<polyline pts="218,52,225,52,"/>
+<polyline pts="194,92,208,92,"/>
+<polyline pts="201,83,201,92,"/>
+<polyline pts="201,103,201,125,"/>
+<polyline pts="191,103,211,103,"/>
+<polyline pts="201,62,201,75,"/>
+<rect left="217" top="-44" right="233" bottom="-4"/>
+<polyline pts="225,-4,225,52,"/>
+<polyline pts="225,-125,225,-44,"/>
+<polyline pts="-140,25,-110,-7,"/>
+<polyline pts="-140,54,-42,54,"/>
+<polyline pts="182,-7,182,25,"/>
+<polyline pts="187,-7,187,25,"/>
+<polyline pts="177,-7,177,25,"/>
+<polyline pts="-42,54,-42,25,"/>
+<polyline op-lw="1" pts="-35,16,-49,13,"/>
+<polyline op-lw="1" pts="-35,16,-42,18,"/>
+<polyline op-lw="1" pts="-42,25,-42,18,"/>
+<polyline op-lw="1" pts="-35,4,-49,1,"/>
+<polyline op-lw="1" pts="-35,4,-49,7,"/>
+<polyline op-lw="1" pts="-35,10,-49,7,"/>
+<polyline op-lw="1" pts="-35,10,-49,13,"/>
+<polyline op-lw="1" pts="-42,-2,-49,1,"/>
+<polyline op-lw="1" pts="-42,-2,-42,-7,"/>
+<polyline pts="-110,-25,-42,-25,"/>
+<polyline pts="-42,-25,-42,-7,"/>
+<rect left="-250" top="-85" right="-200" bottom="-35" op-lw="4"/>
+<polyline op-at="1" pts="-125,-80,-125,-11,"/>
+<polyline pts="-125,-80,-125,-40,"/>
+<polyline pts="-145,-60,-105,-60,"/>
+<rect left="-145" top="-80" right="-105" bottom="-40" op-lw="4"/>
+<polyline pts="-212,-75,-212,-43,"/>
+<polyline pts="-238,-60,-213,-60,"/>
+<polyline pts="-238,-75,-238,-43,"/>
+<text x="65" y="105" f="95,0,0,0,Arial,000000" l="1" tws="0">4</text>
+<text x="165" y="105" f="95,0,0,0,Arial,000000" l="1" tws="0">N</text>
+<text x="15" y="105" f="95,0,0,0,Arial,000000" l="1" tws="0">2</text>
+<text x="115" y="105" f="95,0,0,0,Arial,000000" l="1" tws="0">6</text>
+<text x="18" y="-102" f="95,0,0,0,Arial,000000" l="1" tws="0">1</text>
+<text x="65" y="-102" f="95,0,0,0,Arial,000000" l="1" tws="0">3</text>
+<text x="115" y="-102" f="95,0,0,0,Arial,000000" l="1" tws="0">5</text>
+<text x="165" y="-102" f="95,0,0,0,Arial,000000" l="1" tws="0">N</text>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\istič_3P_IVAN.ppd" fG="9ff37306-50a9-48ec-97e8-5effcc284188" lG="f82b66b2-f908-491b-9d84-1030d21e7f09">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 1P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="b88c2797-cbd8-4b6b-9e0a-99c02bf2f228" x="0" y="0"/>
+<polyline pts="-20,1,0,-4,"/>
+<polyline pts="-18,8,2,3,"/>
+<polyline pts="-15,15,5,10,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\jističe\jistič 3P.ppd" fG="9c8fbafa-2fc9-4149-9c77-91b98727fa4b" lG="fc0f77fd-9953-4025-8b0f-ddd1d3eea857">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="-40,60,-40,30,"/>
+<polyline pts="-60,-40,-40,30,"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<polyline pts="-84,-13,-70,-22,"/>
+<polyline pts="-84,-12,-68,-12,"/>
+<polyline pts="-84,-13,-55,-20,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,60,0,30,"/>
+<polyline pts="-20,-40,0,30,"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<polyline pts="-44,-13,-30,-22,"/>
+<polyline pts="-44,-12,-28,-12,"/>
+<polyline pts="-44,-13,-15,-20,"/>
+<polyline pts="40,-60,40,-30,"/>
+<polyline pts="40,60,40,30,"/>
+<polyline pts="20,-40,40,30,"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+<polyline pts="-4,-13,10,-22,"/>
+<polyline pts="-4,-12,12,-12,"/>
+<polyline pts="-4,-13,25,-20,"/>
+</layer>
+</layers>
+</ppd>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-630" top="-120" right="630" bottom="120" op-lw="5"/>
+<rect left="-630" top="-60" right="630" bottom="0" op-lw="5"/>
+<polyline op-lw="5" pts="-630,60,630,60,"/>
+<rect left="-190" top="-60" right="270" bottom="0" op-lw="5"/>
+<text x="-616" y="-87" f="65,0,0,0,Arial,000000" l="1" al="2">Název: {name}</text>
+<text x="-616" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Index: {index}</text>
+<text x="-616" y="33" f="65,0,0,0,Arial,000000" l="1" al="2">Autor: {author}</text>
+<text x="-616" y="93" f="65,0,0,0,Arial,000000" l="1" al="2">Revize: {revision}</text>
+<text x="-176" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Datum: {date}</text>
+<text x="284" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">List: {sheet}</text>
+</layer>
+</layers>
+</tb>
+<DimStyle name="architektonické" arrow="1" flel="0" off_ori="10" lbl_pos="0" align_text="1" f="120,0,0,0,Arial,000000" unit="1">
+<DimLine op-lw="1" op-lc="16711680"/>
+<ExtLine op-lw="1" op-lc="8421504"/>
+</DimStyle>
+</repo>
+<pages current="0">
+<page name="1" dim_style_name="architektonické">
+<PageSizeSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210" source="0"/>
+<PagePrintSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210"/>
+<tb use="1"/>
+<summary>
+<field name="_du" value="cm"/>
+<field name="_pa" value="1"/>
+<field name="_po" value="1"/>
+<field name="_potb" value="1"/>
+<field name="_sc" value=""/>
+</summary>
+<layers current="1">
+<layer name="-1" v="1"/>
+<layer name="0" v="1">
+<text x="2506" y="1751" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">1/1</text>
+<text x="1869" y="1691" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Rozvádzač RP1 - prehľadová schéma </text>
+<text x="189" y="1081" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">L1, L2, L3</text>
+<text x="217" y="416" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">PRÍVOD</text>
+<wire pts="140,600,760,600,"/>
+<wire op-contour2="16777215" pts="140,640,1760,640," name="PE"/>
+<rect left="150" top="220" right="250" bottom="260"/>
+<polyline op-lw="6" pts="170,240,230,240,"/>
+<polyline pts="200,800,200,260,"/>
+<text x="146" y="582" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">N</text>
+<text x="149" y="621" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">PE</text>
+<elem lG="2743d2b1-b57c-461a-b466-d455394aeb0c" x="169" y="640">
+<attributes>
+<attribute name="_ref" value="4" v="0" al="6" x="129" y="620"/>
+<attribute name="_type" value="" v="0" al="6" x="129" y="660"/>
+</attributes>
+</elem>
+<elem lG="97d3caac-a68a-4eb5-aba9-a2040c678163" x="171" y="600">
+<attributes>
+<attribute name="_ref" value="5" v="0" al="6" x="131" y="580"/>
+<attribute name="_type" value="" v="0" al="6" x="131" y="620"/>
+</attributes>
+</elem>
+<rect left="60" top="480" right="1800" bottom="1140">
+<op-lt head="čerchovaná (.5x), _._._._._._._._._._._._._._._." body="A,.25,-.125,0,-.125"/>
+</rect>
+<text x="176" y="385" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 5x4</text>
+<text x="119" y="239" f="80,0,0,0,Lucida Sans Unicode,008000" l="1" al="9">RH1
+</text>
+<wire pts="380,940,380,1040,120,1040,"/>
+<text x="549" y="1081" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">3/N/PE AC 400/230V 50Hz, TN-C-S</text>
+<polyline pts="180,800,220,800,"/>
+<circle centerx="200" centery="800" tangentx="204" tangenty="806" op-fd="1" op-fc="0"/>
+<polyline pts="143,1019,123,1059,"/>
+<polyline pts="163,1019,143,1059,"/>
+<polyline pts="183,1019,163,1059,"/>
+<polyline pts="200,820,200,800,"/>
+<circle centerx="200" centery="1040" tangentx="204" tangenty="1046" op-fd="1" op-fc="0"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="380" y="880" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA1" v="1" al="6" x="324" y="860" t="2"/>
+<attribute name="_type" value="LTN B10/1" v="1" al="6" x="357" y="812" t="2"/>
+</attributes>
+</elem>
+<polyline pts="380,820,380,260,380,240,"/>
+<text x="356" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x1,5</text>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1520" y="240" h="1">
+<attributes>
+<attribute name="_ref" value="Z4" v="1" al="6" x="1500" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="1480" y="260"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1660" y="240" h="1">
+<attributes>
+<attribute name="_ref" value="Z5" v="1" al="6" x="1640" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="1620" y="260"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1100" y="240" h="1">
+<attributes>
+<attribute name="_ref" value="Z1" v="1" al="6" x="1080" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="1060" y="260"/>
+</attributes>
+</elem>
+<elem lG="dbd8fb78-5bbe-46fa-90a8-1fb05d6cc1b2" x="880" y="900" h="1" v="1">
+<attributes>
+<attribute name="_ref" value="1FI1" v="1" al="6" x="752" y="860" t="2"/>
+<attribute name="_type" value="PCHB4 45/0,03" v="1" al="6" x="785" y="789" t="2"/>
+</attributes>
+</elem>
+<elem lG="7e1757d4-68ee-4a02-8978-56920d65358a" x="200" y="880" h="1" v="1">
+<attributes>
+<attribute name="_ref" value="HLAVNÝ VYPÍNAČ" v="1" al="6" x="103" y="751" t="2"/>
+<attribute name="_type" value="APN-32-3" v="1" al="6" x="137" y="820" t="2"/>
+</attributes>
+</elem>
+<wire pts="200,540,240,580,240,600," drop2="1"/>
+<wire pts="200,540,260,580,260,640," drop2="1"/>
+<polyline pts="160,820,160,800,240,800,240,820,240,820,"/>
+<polyline pts="200,940,200,1040,200,1040,"/>
+<polyline pts="160,940,240,940,"/>
+<circle centerx="200" centery="940" tangentx="204" tangenty="946" op-fd="1" op-fc="0"/>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="380" y="240">
+<attributes>
+<attribute name="_ref" value="S1" v="1" al="6" x="359" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="339" y="260"/>
+</attributes>
+</elem>
+<text x="377" y="156" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Núdzové 
+osvetlenie</text>
+<wire pts="520,940,520,1040,380,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="520" y="880" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA2" v="1" al="6" x="464" y="860" t="2"/>
+<attribute name="_type" value="LTN C10/1" v="1" al="6" x="497" y="812" t="2"/>
+</attributes>
+</elem>
+<polyline pts="520,820,520,260,520,240,"/>
+<circle centerx="380" centery="1040" tangentx="384" tangenty="1046" op-fd="1" op-fc="0"/>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="520" y="240">
+<attributes>
+<attribute name="_ref" value="S2" v="1" al="6" x="499" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="479" y="260"/>
+</attributes>
+</elem>
+<text x="356" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x1,5</text>
+<wire pts="660,940,660,1040,520,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="660" y="880" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA3" v="1" al="6" x="604" y="860" t="2"/>
+<attribute name="_type" value="LTN B10/1" v="1" al="6" x="637" y="812" t="2"/>
+</attributes>
+</elem>
+<polyline pts="660,820,660,260,660,240,"/>
+<circle centerx="520" centery="1040" tangentx="524" tangenty="1046" op-fd="1" op-fc="0"/>
+<elem lG="9a4e02f6-ca30-461d-93ca-923a7a1d6e50" x="660" y="240">
+<attributes>
+<attribute name="_ref" value="S3" v="1" al="6" x="639" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="619" y="260"/>
+</attributes>
+</elem>
+<text x="496" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x1,5</text>
+<text x="636" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x1,5</text>
+<polyline pts="660,1040,900,1040,900,980,880,980,880,960,880,980,920,980,920,960,920,980,900,980,900,960,900,960,"/>
+<circle centerx="900" centery="980" tangentx="904" tangenty="986" op-fd="1" op-fc="0"/>
+<polyline pts="700,600,720,600,720,1000,860,1000,860,960,860,960,"/>
+<wire pts="200,540,240,580,240,600," drop2="1"/>
+<wire pts="200,540,260,580,260,640," drop2="1"/>
+<wire pts="380,540,420,580,420,600," drop2="1"/>
+<wire pts="380,540,440,580,440,640," drop2="1"/>
+<wire pts="520,540,560,580,560,600," drop2="1"/>
+<wire pts="520,540,580,580,580,640," drop2="1"/>
+<wire pts="660,540,700,580,700,600," drop2="1"/>
+<wire pts="660,540,720,580,720,640," drop2="1"/>
+<circle centerx="660" centery="1040" tangentx="664" tangenty="1046" op-fd="1" op-fc="0"/>
+<polyline pts="840,840,880,840,880,840,"/>
+<circle centerx="860" centery="840" tangentx="864" tangenty="846" op-fd="1" op-fc="0"/>
+<polyline pts="900,840,900,600,1720,600,1760,600,"/>
+<polyline pts="860,840,860,800,1000,800,1000,1040,1660,1040,1660,1040,"/>
+<polyline pts="943,779,923,819,"/>
+<polyline pts="963,779,943,819,"/>
+<polyline pts="983,779,963,819,"/>
+<wire pts="1100,940,1100,1040,1000,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1100" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA4" v="1" al="6" x="1044" y="880" t="2"/>
+<attribute name="_type" value="LTN B16/1" v="1" al="6" x="1077" y="832" t="2"/>
+</attributes>
+</elem>
+<polyline pts="1100,840,1100,280,1100,260,"/>
+<circle centerx="1100" centery="1040" tangentx="1104" tangenty="1046" op-fd="1" op-fc="0"/>
+<wire pts="1240,940,1240,1040,1140,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1240" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA5" v="1" al="6" x="1184" y="880" t="2"/>
+<attribute name="_type" value="LTN C16/1" v="1" al="6" x="1217" y="832" t="2"/>
+</attributes>
+</elem>
+<polyline pts="1240,840,1240,280,1240,260,"/>
+<wire pts="1380,940,1380,1040,1280,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1380" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA6" v="1" al="6" x="1324" y="880" t="2"/>
+<attribute name="_type" value="LTN C16/1" v="1" al="6" x="1357" y="832" t="2"/>
+</attributes>
+</elem>
+<polyline pts="1380,840,1380,280,1380,260,"/>
+<wire pts="1520,940,1520,1040,1420,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1520" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA7" v="1" al="6" x="1464" y="880" t="2"/>
+<attribute name="_type" value="LTN C16/1" v="1" al="6" x="1497" y="832" t="2"/>
+</attributes>
+</elem>
+<polyline pts="1520,840,1520,280,1520,260,"/>
+<wire pts="1660,940,1660,1040,1560,1040,"/>
+<elem lG="46e25dca-cb71-48c4-8487-da07597c3d1d" x="1660" y="900" h="1" a="-1800">
+<attributes>
+<attribute name="_ref" value="1FA8" v="1" al="6" x="1604" y="880" t="2"/>
+<attribute name="_type" value="LTN C16/1" v="1" al="6" x="1637" y="832" t="2"/>
+</attributes>
+</elem>
+<polyline pts="1660,840,1660,280,1660,260,"/>
+<circle centerx="1240" centery="1040" tangentx="1244" tangenty="1046" op-fd="1" op-fc="0"/>
+<circle centerx="1380" centery="1040" tangentx="1384" tangenty="1046" op-fd="1" op-fc="0"/>
+<circle centerx="1520" centery="1040" tangentx="1524" tangenty="1046" op-fd="1" op-fc="0"/>
+<text x="1076" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x2,5</text>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1240" y="240" h="1">
+<attributes>
+<attribute name="_ref" value="Z2" v="1" al="6" x="1220" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="1200" y="260"/>
+</attributes>
+</elem>
+<elem lG="9122f330-7f60-4788-a84c-f385ba43cb46" x="1380" y="240" h="1">
+<attributes>
+<attribute name="_ref" value="Z3" v="1" al="6" x="1360" y="220"/>
+<attribute name="_type" value="" v="0" al="6" x="1340" y="260"/>
+</attributes>
+</elem>
+<text x="1216" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x2,5</text>
+<text x="1356" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x2,5</text>
+<text x="1496" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x2,5</text>
+<text x="1636" y="372" a="900" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">CYKY-J 3x2,5</text>
+<text x="906" y="582" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">N</text>
+<elem lG="97d3caac-a68a-4eb5-aba9-a2040c678163" x="931" y="600">
+<attributes>
+<attribute name="_ref" value="2" v="0" al="6" x="891" y="580"/>
+<attribute name="_type" value="" v="0" al="6" x="891" y="620"/>
+</attributes>
+</elem>
+<text x="906" y="582" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">N</text>
+<elem lG="97d3caac-a68a-4eb5-aba9-a2040c678163" x="931" y="600">
+<attributes>
+<attribute name="_ref" value="3" v="0" al="6" x="891" y="580"/>
+<attribute name="_type" value="" v="0" al="6" x="891" y="620"/>
+</attributes>
+</elem>
+<wire pts="1100,540,1140,580,1140,600," drop2="1"/>
+<wire pts="1100,540,1160,580,1160,640," drop2="1"/>
+<wire pts="1240,540,1280,580,1280,600," drop2="1"/>
+<wire pts="1240,540,1300,580,1300,640," drop2="1"/>
+<wire pts="1380,540,1420,580,1420,600," drop2="1"/>
+<wire pts="1380,540,1440,580,1440,640," drop2="1"/>
+<wire pts="1520,540,1560,580,1560,600," drop2="1"/>
+<wire pts="1520,540,1580,580,1580,640," drop2="1"/>
+<wire pts="1660,540,1700,580,1700,600," drop2="1"/>
+<wire pts="1660,540,1720,580,1720,640," drop2="1"/>
+<text x="393" y="1341" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Rozvodnica zapustená, plastová,
+kovové dvierka, 48 modulov
+Stupeň krytia: max IP 30</text>
+<text x="393" y="1444" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Trieda ochrany: II
+Prívod: zhora, 
+Vývody: hore</text>
+<text x="393" y="1281" f="80,1,0,1,Lucida Sans Unicode,000000" l="1" al="2">Rozvádzač R2 – 2. NP:
+</text>
+<rect left="60" top="1240" right="380" bottom="1680"/>
+<rect left="70" top="1249" right="370" bottom="1669"/>
+<rect left="120" top="1280" right="320" bottom="1320"/>
+<rect left="120" top="1380" right="320" bottom="1420"/>
+<rect left="120" top="1480" right="320" bottom="1520"/>
+<rect left="120" top="1580" right="320" bottom="1620"/>
+<polyline pts="100,1300,340,1300,"/>
+<polyline pts="100,1400,340,1400,"/>
+<polyline pts="100,1500,340,1500,"/>
+<polyline pts="100,1600,340,1600,"/>
+<text x="893" y="1281" f="80,1,0,1,Lucida Sans Unicode,000000" l="1" al="2">Ochrana:
+</text>
+<text x="893" y="1341" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Opatrenia na základnú ochranu (ochranu pred priamym dotykom)
+- základná izolácia živých častí
+- zábranami alebo krytmi</text>
+<text x="893" y="1447" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Ochrana pri poruche (ochrana pred nepriamym dotykom)
+- samočinným odpojením napájania
+- ochanné uzemnenie a ochranné pospájanie</text>
+<text x="393" y="1550" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Farba: biela
+Rozmery (š x v x hl): 
+370 x 730 x 100</text>
+<text x="393" y="1550" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">Farba: biela
+Rozmery (š x v x hl): 
+370 x 730 x 100</text>
+<text x="393" y="1623" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="2">1335 mm nad zemou</text>
+</layer>
+</layers>
+</page>
+</pages>
+</document>

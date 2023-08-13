@@ -1,0 +1,434 @@
+<document type="ProfiCAD sxe" version="10.0">
+<fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,FF00FF" refs="85,0,0,0,Arial,008000" wire_names="85,0,0,0,Arial,000000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000" reports="85,0,0,0,Arial,000000"/>
+<PrintSettings PrinterName="" PaperSize="9" FormName="A4 (210 x 297 mm)" SheetSizeX="210" SheetSizeY="297" WantsCustom="0" CustomSizeX="283" CustomSizeY="203"/>
+<PrintReportSettings paper_size_enum="9" sheet_size_x="210" sheet_size_y="297" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
+<PrinterSettings PaperSizeX="2770" PaperSizeY="1900" PhysicalOffestTenthMm_X="29" PhysicalOffestTenthMm_Y="30"/>
+<tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb"/>
+<PageSettings bgColor="FFFFFF" zoom="75" frame="YES" showT="YES" showV="YES" includeMargins="YES"/>
+<RefGridSettings FieldSize="50"/>
+<NumberingWire Over="1" Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="10" WireLabelDist_c="7"/>
+<summary>
+<field name="Abteilung" value=""/>
+<field name="Auftraggeber" value=""/>
+<field name="DokArt" value=""/>
+<field name="DokStatus" value=""/>
+<field name="Genehmigt" value=""/>
+<field name="ProjBez" value=""/>
+<field name="ProjZusatz" value=""/>
+<field name="Sachnummer" value=""/>
+<field name="Size" value=""/>
+<field name="Spr" value=""/>
+<field name="TeilBez" value=""/>
+<field name="Titel" value=""/>
+<field name="TitelZusatz" value=""/>
+<field name="approved" value=""/>
+<field name="author" value=""/>
+<field name="date" value="14. 3. 2023"/>
+<field name="dep" value=""/>
+<field name="docStatus" value=""/>
+<field name="docType" value=""/>
+<field name="id" value=""/>
+<field name="index" value=""/>
+<field name="lng" value=""/>
+<field name="name" value=""/>
+<field name="rev" value=""/>
+<field name="revision" value=""/>
+<field name="sheet" value=""/>
+<field name="techRef" value=""/>
+<field name="title" value=""/>
+<field name="titleSup" value=""/>
+<field name="Änderung" value=""/>
+</summary>
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\odpojovač\pojistkový odpojovač 3P.ppd" t="k" fG="3ebbfc56-3d3d-434a-8998-f18180eab5fe" lG="906c4428-0768-42fe-a18d-57bd7c050d40">
+<layers current="0">
+<layer name="0" v="1">
+<polygon pts="-67,-12,-52,20,-42,16,-57,-16,"/>
+<polygon pts="-27,-12,-12,20,-2,16,-17,-16,"/>
+<polygon pts="13,-12,28,20,38,16,23,-16,"/>
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-30,"/>
+<polyline pts="0,33,-30,-30,"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-40,33,-70,-30,"/>
+<polyline pts="40,33,10,-30,"/>
+<polyline pts="-40,-60,-40,-30,"/>
+<polyline pts="40,-60,40,-30,"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+<polyline pts="-44,-30,-36,-30,"/>
+<polyline pts="-4,-30,4,-30,"/>
+<polyline pts="36,-30,44,-30,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="elektronika\pasívní komponenty\kondenzátory\kondenzátor2.ppd" fG="f0c9ec51-88b3-4adf-9e28-65558b1a29d1" lG="a6db07d5-7774-4a7d-8f6f-ca45afa3d4a9">
+<repo>
+<ppd name="elektronika\pasívní komponenty\kondenzátory\kondenzátor.ppd" t="C" v="10k" fG="3fbd61fd-fc00-4eb8-872e-cd3da5b023bf" lG="3c3e597e-a91e-4b34-8520-0c5b3b7b4cc2">
+<layers current="0">
+<layer name="0" v="1">
+<polyline op-lw="4" pts="-18,-4,18,-4,"/>
+<polyline op-lw="4" pts="-18,4,18,4,"/>
+<outlet x="0" y="-4"/>
+<outlet x="0" y="4"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="3c3e597e-a91e-4b34-8520-0c5b3b7b4cc2" x="-40" y="-24"/>
+<polyline pts="-40,-30,-40,-40,"/>
+<polyline pts="-40,-10,-40,-20,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="elektronika\telekomunikační technika\stykač kompenzačný.ppd" fG="f22cdc51-4c67-47e5-89e4-be8dca66594d" lG="e48d2afd-2035-4d43-829a-b344e2629a7e">
+<repo>
+<ppd name="silnoproud\spínací, řídící a jistící zařízení\kontakt zapínací\k. zap. stykače trojpólový.ppd" t="k" fG="63d78be0-bd3d-4483-9890-3e94a03b15af" lG="006db899-665e-4305-bb89-12e792db0388">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,34,0,60,"/>
+<polyline pts="0,-60,0,-22,"/>
+<polyline pts="-3,26,-30,-30,"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polyline pts="-40,34,-40,60,"/>
+<polyline pts="40,34,40,60,"/>
+<polyline pts="-43,26,-70,-30,"/>
+<polyline pts="37,26,10,-30,"/>
+<polyline pts="-40,-60,-40,-22,"/>
+<polyline pts="40,-60,40,-22,"/>
+<polyline pts="-54,0,24,0,"/>
+<polyline pts="-60,-10,19,-10,"/>
+<ellipse left="-44" top="26" right="-36" bottom="34"/>
+<ellipse left="36" top="26" right="44" bottom="34"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-40" y="-60"/>
+<ellipse left="-4" top="26" right="4" bottom="34"/>
+<polybezier pts="-40,-38,-50,-34,-50,-26,-40,-22,"/>
+<polybezier pts="0,-38,-10,-34,-10,-26,0,-22,"/>
+<polybezier pts="40,-38,30,-34,30,-26,40,-22,"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="elektronika\telekomunikační technika\napájecí bod.ppd" n="EN 60617: 11-10-03" fG="d93c665e-af9b-404e-b017-cbe4d3b6f99e" lG="a5bbdcde-55ea-4f9a-a457-f9dec961c136">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<elem lG="006db899-665e-4305-bb89-12e792db0388" x="-40" y="-10"/>
+<polyline pts="-80,-70,-80,-170,"/>
+<polyline pts="-40,-70,-40,-170,"/>
+<polyline pts="0,-70,0,-170,"/>
+<polyline pts="-80,130,-80,50,"/>
+<polyline pts="-40,130,-40,50,"/>
+<polyline pts="0,130,0,50,"/>
+<polyline pts="10,-40,40,20,"/>
+<polyline pts="40,20,40,30,"/>
+<rect left="30" top="30" right="50" bottom="60"/>
+<polyline pts="40,60,40,70,"/>
+<polyline pts="40,70,-80,70,"/>
+<circle centerx="-80" centery="70" tangentx="-77" tangenty="73" op-fd="1" op-fc="0"/>
+<rect left="30" top="30" right="50" bottom="60"/>
+<polyline pts="10,-40,20,-50,"/>
+<polyline pts="40,-40,70,20,"/>
+<polyline pts="70,20,70,30,"/>
+<rect left="60" top="30" right="80" bottom="60"/>
+<rect left="60" top="30" right="80" bottom="60"/>
+<polyline pts="40,-40,50,-50,"/>
+<polyline pts="70,-40,100,20,"/>
+<polyline pts="100,20,100,30,"/>
+<rect left="90" top="30" right="110" bottom="60"/>
+<rect left="90" top="30" right="110" bottom="60"/>
+<polyline pts="70,-40,80,-50,"/>
+<rect left="30" top="-100" right="50" bottom="-70"/>
+<rect left="60" top="-100" right="80" bottom="-70"/>
+<rect left="90" top="-100" right="110" bottom="-70"/>
+<polyline pts="40,-50,40,-70,"/>
+<polyline pts="70,-50,70,-70,"/>
+<polyline pts="100,-50,100,-70,"/>
+<circle centerx="-40" centery="90" tangentx="-37" tangenty="93" op-fd="1" op-fc="0"/>
+<circle centerx="0" centery="110" tangentx="3" tangenty="113" op-fd="1" op-fc="0"/>
+<polyline pts="70,60,70,90,-40,90,-40,90,"/>
+<polyline pts="100,60,100,110,0,110,0,110,"/>
+<polyline pts="40,-100,40,-110,-70,-110,-70,-110,-70,-110,-80,-110,"/>
+<polyline pts="70,-100,70,-130,-30,-130,-40,-130,"/>
+<polyline pts="100,-100,100,-150,10,-150,0,-150,"/>
+<circle centerx="-80" centery="-110" tangentx="-77" tangenty="-107" op-fd="1" op-fc="0"/>
+<circle centerx="-40" centery="-130" tangentx="-37" tangenty="-127" op-fd="1" op-fc="0"/>
+<circle centerx="0" centery="-150" tangentx="3" tangenty="-147" op-fd="1" op-fc="0"/>
+</layer>
+</layers>
+</ppd>
+<tb path="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard4.ptb">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-630" top="-120" right="630" bottom="120" op-lw="5"/>
+<rect left="-630" top="-60" right="630" bottom="0" op-lw="5"/>
+<polyline op-lw="5" pts="-630,60,630,60,"/>
+<rect left="-190" top="-60" right="270" bottom="0" op-lw="5"/>
+<text x="-616" y="-87" f="65,0,0,0,Arial,000000" l="1" al="2">Název: {name}</text>
+<text x="-616" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Index: {index}</text>
+<text x="-616" y="33" f="65,0,0,0,Arial,000000" l="1" al="2">Autor: {author}</text>
+<text x="-616" y="93" f="65,0,0,0,Arial,000000" l="1" al="2">Revize: {revision}</text>
+<text x="-176" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">Datum: {date}</text>
+<text x="284" y="-27" f="65,0,0,0,Arial,000000" l="1" al="2">List: {sheet}</text>
+</layer>
+</layers>
+</tb>
+<DimStyle name="architektonické" arrow="1" flel="0" off_ori="10" lbl_pos="0" align_text="1" f="120,0,0,0,Arial,000000" unit="1">
+<DimLine op-lw="1" op-lc="16711680"/>
+<ExtLine op-lw="1" op-lc="8421504"/>
+</DimStyle>
+</repo>
+<pages current="0">
+<page name="1" dim_style_name="architektonické">
+<PageSizeSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210" source="0"/>
+<PagePrintSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210"/>
+<tb use="1"/>
+<summary>
+<field name="_du" value="cm"/>
+<field name="_pa" value="1"/>
+<field name="_po" value="1"/>
+<field name="_potb" value="1"/>
+<field name="_sc" value=""/>
+</summary>
+<layers current="1">
+<layer name="-1" v="1"/>
+<layer name="0" v="1">
+<wire pts="200,200,2600,200," name="L1"/>
+<wire pts="200,240,2600,240," name="L2"/>
+<wire pts="200,280,2600,280," name="L3"/>
+<text x="2506" y="1751" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">2/5</text>
+<text x="1865" y="1691" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Rozvádzač RC1 - prehľadová schéma </text>
+<text x="1658" y="1751" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">pole 1</text>
+<text x="2289" y="445" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">50A gG</text>
+<rect left="2320" top="1220" right="2520" bottom="1340"/>
+<text x="2252" y="1331" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+400V
+</text>
+<elem lG="e48d2afd-2035-4d43-829a-b344e2629a7e" x="2460" y="700">
+<attributes>
+<attribute name="_ref" value="1KM4" v="1" al="6" x="2311" y="644"/>
+<attribute name="_type" value="LC1DTK12" v="0" al="6" x="2332" y="658"/>
+</attributes>
+</elem>
+<wire pts="2420,820,2420,1220,"/>
+<wire pts="2380,820,2380,1220,"/>
+<wire pts="2460,820,2460,1220,"/>
+<elem lG="a6db07d5-7774-4a7d-8f6f-ca45afa3d4a9" x="2500" y="1329" sX="2.0000" sY="2.0000">
+<attributes>
+<attribute name="_ref" value="1C4" v="1" al="6" x="2305" y="1224"/>
+<attribute name="_type" value="CSADG 1-0,4/25" v="1" al="6" x="2312" y="1259"/>
+</attributes>
+</elem>
+<text x="2267" y="712" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+230V AC
+</text>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="2420" y="422">
+<attributes>
+<attribute name="_ref" value="1FU4" v="1" al="6" x="2325" y="373"/>
+<attribute name="_type" value="OPV14" v="1" al="6" x="2325" y="409"/>
+</attributes>
+</elem>
+<polyline pts="2380,540,2380,480,"/>
+<polyline pts="2420,480,2420,540,"/>
+<polyline pts="2460,480,2460,540,"/>
+<polyline pts="2380,540,2380,480,"/>
+<polyline pts="2420,480,2420,540,"/>
+<polyline pts="2460,480,2460,540,"/>
+<rect left="320" top="1220" right="520" bottom="1340"/>
+<text x="240" y="1331" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">1,5 kVAr
+400V
+</text>
+<elem lG="a6db07d5-7774-4a7d-8f6f-ca45afa3d4a9" x="500" y="1329" sX="2.0000" sY="2.0000">
+<attributes>
+<attribute name="_ref" value="1C8" v="1" al="6" x="298" y="1223"/>
+<attribute name="_type" value="CSADG 1-0,4/1,5" v="1" al="6" x="309" y="1259"/>
+</attributes>
+</elem>
+<elem lG="e48d2afd-2035-4d43-829a-b344e2629a7e" x="460" y="700">
+<attributes>
+<attribute name="_ref" value="1KM8" v="1" al="6" x="311" y="644"/>
+<attribute name="_type" value="" v="0" al="6" x="332" y="658"/>
+</attributes>
+</elem>
+<wire pts="420,820,420,1220,"/>
+<wire pts="380,820,380,1220,"/>
+<wire pts="460,820,460,1220,"/>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="420" y="422">
+<attributes>
+<attribute name="_ref" value="1FU8" v="1" al="6" x="325" y="373"/>
+<attribute name="_type" value="OPV10" v="1" al="6" x="325" y="409"/>
+</attributes>
+</elem>
+<polyline pts="380,540,380,480,"/>
+<polyline pts="420,480,420,540,"/>
+<polyline pts="460,480,460,540,"/>
+<wire pts="420,240,420,362," drop1="1"/>
+<wire pts="460,280,460,362," drop1="1"/>
+<polyline pts="380,540,380,480,"/>
+<polyline pts="420,480,420,540,"/>
+<polyline pts="460,480,460,540,"/>
+<wire pts="380,362,380,200," drop2="1"/>
+<text x="267" y="712" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">12,5kVAr
+230V AC
+</text>
+<text x="283" y="445" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">6A gG</text>
+<text x="1789" y="445" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">50A gG</text>
+<rect left="1820" top="1220" right="2020" bottom="1340"/>
+<text x="1752" y="1331" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">20 kVAr
+400V
+</text>
+<elem lG="e48d2afd-2035-4d43-829a-b344e2629a7e" x="1960" y="700">
+<attributes>
+<attribute name="_ref" value="1KM5" v="1" al="6" x="1811" y="644"/>
+<attribute name="_type" value="" v="0" al="6" x="1832" y="658"/>
+</attributes>
+</elem>
+<wire pts="1920,820,1920,1220,"/>
+<wire pts="1880,820,1880,1220,"/>
+<wire pts="1960,820,1960,1220,"/>
+<elem lG="a6db07d5-7774-4a7d-8f6f-ca45afa3d4a9" x="2000" y="1329" sX="2.0000" sY="2.0000">
+<attributes>
+<attribute name="_ref" value="1C5" v="1" al="6" x="1805" y="1224"/>
+<attribute name="_type" value="CSADG 1-0,4/20" v="1" al="6" x="1812" y="1259"/>
+</attributes>
+</elem>
+<text x="1767" y="712" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+230V AC
+</text>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="1920" y="422">
+<attributes>
+<attribute name="_ref" value="1FU5" v="1" al="6" x="1825" y="373"/>
+<attribute name="_type" value="OPV14" v="1" al="6" x="1825" y="409"/>
+</attributes>
+</elem>
+<polyline pts="1880,540,1880,480,"/>
+<polyline pts="1920,480,1920,540,"/>
+<polyline pts="1960,480,1960,540,"/>
+<wire pts="1920,240,1920,362," drop1="1"/>
+<wire pts="1960,280,1960,362," drop1="1"/>
+<polyline pts="1880,540,1880,480,"/>
+<polyline pts="1920,480,1920,540,"/>
+<polyline pts="1960,480,1960,540,"/>
+<wire pts="1880,362,1880,200," drop2="1"/>
+<rect left="2320" top="1220" right="2520" bottom="1340"/>
+<wire pts="2420,820,2420,1220,"/>
+<wire pts="2380,820,2380,1220,"/>
+<wire pts="2460,820,2460,1220,"/>
+<polyline pts="2380,540,2380,480,"/>
+<polyline pts="2420,480,2420,540,"/>
+<polyline pts="2460,480,2460,540,"/>
+<polyline pts="2380,540,2380,480,"/>
+<polyline pts="2420,480,2420,540,"/>
+<polyline pts="2460,480,2460,540,"/>
+<text x="1289" y="445" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">50A gG</text>
+<rect left="1320" top="1220" right="1520" bottom="1340"/>
+<text x="1252" y="1331" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+400V
+</text>
+<elem lG="e48d2afd-2035-4d43-829a-b344e2629a7e" x="1460" y="700">
+<attributes>
+<attribute name="_ref" value="1KM6" v="1" al="6" x="1311" y="644"/>
+<attribute name="_type" value="" v="0" al="6" x="1332" y="658"/>
+</attributes>
+</elem>
+<wire pts="1420,820,1420,1220,"/>
+<wire pts="1380,820,1380,1220,"/>
+<wire pts="1460,820,1460,1220,"/>
+<elem lG="a6db07d5-7774-4a7d-8f6f-ca45afa3d4a9" x="1500" y="1329" sX="2.0000" sY="2.0000">
+<attributes>
+<attribute name="_ref" value="1C6" v="1" al="6" x="1305" y="1224"/>
+<attribute name="_type" value="CSADG 1-0,4/25" v="1" al="6" x="1312" y="1259"/>
+</attributes>
+</elem>
+<text x="1267" y="712" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+230V AC
+</text>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="1420" y="422">
+<attributes>
+<attribute name="_ref" value="1FU6" v="1" al="6" x="1325" y="373"/>
+<attribute name="_type" value="OPV14" v="1" al="6" x="1325" y="409"/>
+</attributes>
+</elem>
+<polyline pts="1380,540,1380,480,"/>
+<polyline pts="1420,480,1420,540,"/>
+<polyline pts="1460,480,1460,540,"/>
+<wire pts="1420,240,1420,362," drop1="1"/>
+<wire pts="1460,280,1460,362," drop1="1"/>
+<polyline pts="1380,540,1380,480,"/>
+<polyline pts="1420,480,1420,540,"/>
+<polyline pts="1460,480,1460,540,"/>
+<wire pts="1380,362,1380,200," drop2="1"/>
+<text x="789" y="445" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">40A gG</text>
+<rect left="820" top="1220" right="1020" bottom="1340"/>
+<text x="752" y="1331" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+400V
+</text>
+<elem lG="e48d2afd-2035-4d43-829a-b344e2629a7e" x="960" y="700">
+<attributes>
+<attribute name="_ref" value="1KM7" v="1" al="6" x="811" y="644"/>
+<attribute name="_type" value="LC1DTK12" v="0" al="6" x="832" y="658"/>
+</attributes>
+</elem>
+<wire pts="920,820,920,1220,"/>
+<wire pts="880,820,880,1220,"/>
+<wire pts="960,820,960,1220,"/>
+<elem lG="a6db07d5-7774-4a7d-8f6f-ca45afa3d4a9" x="1000" y="1329" sX="2.0000" sY="2.0000">
+<attributes>
+<attribute name="_ref" value="1C7" v="1" al="6" x="805" y="1224"/>
+<attribute name="_type" value="CSADG 1-0,4/25" v="1" al="6" x="812" y="1259"/>
+</attributes>
+</elem>
+<text x="767" y="712" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">25 kVAr
+230V AC
+</text>
+<elem lG="906c4428-0768-42fe-a18d-57bd7c050d40" x="920" y="422">
+<attributes>
+<attribute name="_ref" value="1FU7" v="1" al="6" x="825" y="373"/>
+<attribute name="_type" value="OPV14" v="1" al="6" x="825" y="409"/>
+</attributes>
+</elem>
+<polyline pts="880,540,880,480,"/>
+<polyline pts="920,480,920,540,"/>
+<polyline pts="960,480,960,540,"/>
+<wire pts="920,240,920,362," drop1="1"/>
+<wire pts="960,280,960,362," drop1="1"/>
+<polyline pts="880,540,880,480,"/>
+<polyline pts="920,480,920,540,"/>
+<polyline pts="960,480,960,540,"/>
+<wire pts="880,362,880,200," drop2="1"/>
+<wire pts="2380,362,2380,200," drop2="1"/>
+<wire pts="2420,362,2420,240," drop2="1"/>
+<wire pts="2460,362,2460,280," drop2="1"/>
+<text x="209" y="185" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">L1</text>
+<text x="209" y="225" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">L2</text>
+<text x="209" y="265" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">L3</text>
+<text x="2589" y="185" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">L1</text>
+<text x="2589" y="225" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">L2</text>
+<text x="2589" y="265" f="80,0,1,0,Lucida Sans Unicode,000000" l="1" al="9">L3</text>
+<text x="1720" y="1811" f="80,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Bc. Ivan Zeman </text>
+</layer>
+</layers>
+</page>
+</pages>
+</document>
